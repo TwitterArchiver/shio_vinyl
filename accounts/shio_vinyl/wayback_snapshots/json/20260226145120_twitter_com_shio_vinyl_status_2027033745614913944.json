@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2027032136667046051",
+    "created_at": "2026-02-26T14:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T15:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027033745614913944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "914028453174796293",
+          "start": 0,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027033745614913944",
+    "in_reply_to_user_id": "914028453174796293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027032136667046051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajisai1207_ 没有，因为现代学院机制就是这样，除非什么时候没有课程大纲、论文格式和评审体系了。当然业余大手子也会和人争论谁的理解更正统，这不也是变相的评审吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2027032136667046051",
+        "created_at": "2026-02-26T14:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027033745614913944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "914028453174796293",
+              "start": 0,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027033745614913944",
+        "in_reply_to_user_id": "914028453174796293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027032136667046051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajisai1207_ 没有，因为现代学院机制就是这样，除非什么时候没有课程大纲、论文格式和评审体系了。当然业余大手子也会和人争论谁的理解更正统，这不也是变相的评审吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914028453174796293",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2027032136667046051",
+        "created_at": "2026-02-26T14:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027032136667046051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shio_vinyl/sta…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/shio_vinyl/status/2027029518465331311",
+              "start": 93,
+              "url": "https://t.co/f3hH6W8S3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027032136667046051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027029518465331311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得，如果在学术和职业生涯中能不断挖掘出自己的正当性和优越感，剩下的任何自省自谦都变成故作姿态的话，实在是应当警惕的。那么，有没有什么学科越学越觉得自己是坏的，低能的，无可救药的呢。 https://t.co/f3hH6W8S3J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27562,
+          "following_count": 2244,
+          "like_count": 29042,
+          "listed_count": 20,
+          "media_count": 1861,
+          "tweet_count": 29475
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 912,
+          "like_count": 12877,
+          "listed_count": 14,
+          "media_count": 556,
+          "tweet_count": 6047
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

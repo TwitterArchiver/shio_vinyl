@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2024308106831020462",
+    "created_at": "2026-02-19T02:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024308106831020462"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024308106831020462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果认真的谈老中的辩证法，这里的辩证法早就不是一种否定性思维了，而是一种稳定机制。\n矛盾可以存在，但方向早已被规定；冲突可以发生，但结果已经被保证；它解释一切，却不允许任何真正的不确定。\n将否定性纳入发展逻辑的思想最终都会成为秩序的一部分，这也解释了黑格尔主义者那种不约而同的姿态。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2024308106831020462",
+        "created_at": "2026-02-19T02:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024308106831020462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024308106831020462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果认真的谈老中的辩证法，这里的辩证法早就不是一种否定性思维了，而是一种稳定机制。\n矛盾可以存在，但方向早已被规定；冲突可以发生，但结果已经被保证；它解释一切，却不允许任何真正的不确定。\n将否定性纳入发展逻辑的思想最终都会成为秩序的一部分，这也解释了黑格尔主义者那种不约而同的姿态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27485,
+          "following_count": 2246,
+          "like_count": 29053,
+          "listed_count": 20,
+          "media_count": 1861,
+          "tweet_count": 29470
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

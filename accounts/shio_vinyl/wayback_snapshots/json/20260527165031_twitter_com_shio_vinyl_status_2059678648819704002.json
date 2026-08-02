@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059678648819704002",
+    "created_at": "2026-05-27T16:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059678648819704002"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059678648819704002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你当然可以用什么海底标准火星标准来取代现代公共伦理，前提是你活在火星荒岛，你的一辈子都和其他现代人类没半毛钱关系，你的吃喝拉撒以及做爱也和所有人无关。\n又或者认为什么临床手册能教人处理完师生关系、职场权力、歧视、虐待动物、公共安全和弱势者保护这些所有问题，能不能不要这么天真？你们是想进步想疯了吗？😰"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你当然可以用什么海底标准火星标准来取代现代公共伦理，前提是你活在火星荒岛，你的一辈子都和其他现代人类没半毛钱关系，你的吃喝拉撒以及做爱也和所有人无关。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059678648819704002",
+        "created_at": "2026-05-27T16:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059678648819704002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059678648819704002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你当然可以用什么海底标准火星标准来取代现代公共伦理，前提是你活在火星荒岛，你的一辈子都和其他现代人类没半毛钱关系，你的吃喝拉撒以及做爱也和所有人无关。\n又或者认为什么临床手册能教人处理完师生关系、职场权力、歧视、虐待动物、公共安全和弱势者保护这些所有问题，能不能不要这么天真？你们是想进步想疯了吗？😰"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你当然可以用什么海底标准火星标准来取代现代公共伦理，前提是你活在火星荒岛，你的一辈子都和其他现代人类没半毛钱关系，你的吃喝拉撒以及做爱也和所有人无关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27905,
+          "following_count": 2244,
+          "like_count": 28638,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29570
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

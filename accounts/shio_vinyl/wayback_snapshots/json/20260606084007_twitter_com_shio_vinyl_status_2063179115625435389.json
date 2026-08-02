@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063179109992484865"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2063179115625435389",
+    "created_at": "2026-06-06T08:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063179115625435389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gG7KjhFwdw",
+          "end": 32,
+          "expanded_url": "https://x.com/shio_vinyl/status/2063179115625435389/photo/1",
+          "media_key": "3_2063179109992484865",
+          "start": 9,
+          "url": "https://t.co/gG7KjhFwdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063179115625435389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "迭代研究制图中👀 https://t.co/gG7KjhFwdw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2063179109992484865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHieCcb0AEHCDh.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063179109992484865"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2063179115625435389",
+        "created_at": "2026-06-06T08:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063179115625435389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gG7KjhFwdw",
+              "end": 32,
+              "expanded_url": "https://x.com/shio_vinyl/status/2063179115625435389/photo/1",
+              "media_key": "3_2063179109992484865",
+              "start": 9,
+              "url": "https://t.co/gG7KjhFwdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063179115625435389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迭代研究制图中👀 https://t.co/gG7KjhFwdw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27897,
+          "following_count": 2243,
+          "like_count": 28638,
+          "listed_count": 20,
+          "media_count": 1890,
+          "tweet_count": 29603
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

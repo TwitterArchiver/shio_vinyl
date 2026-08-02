@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2024128781741416633",
+    "created_at": "2026-02-18T14:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024128781741416633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shio_vinyl/sta…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/shio_vinyl/status/2023967177737417026",
+          "start": 88,
+          "url": "https://t.co/t17JchCeOZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024128781741416633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023967177737417026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "随便发一句居然那么多生物出现了。\n我寻思老中比起教育我辩证法是什么为什么不去教育这95%的人辩证法是什么呢？\n看到不顺眼的话就哈气了说我是在批评老中制度问题，要不要那么可怜😹 https://t.co/t17JchCeOZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2024128781741416633",
+        "created_at": "2026-02-18T14:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024128781741416633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shio_vinyl/sta…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/shio_vinyl/status/2023967177737417026",
+              "start": 88,
+              "url": "https://t.co/t17JchCeOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024128781741416633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023967177737417026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "随便发一句居然那么多生物出现了。\n我寻思老中比起教育我辩证法是什么为什么不去教育这95%的人辩证法是什么呢？\n看到不顺眼的话就哈气了说我是在批评老中制度问题，要不要那么可怜😹 https://t.co/t17JchCeOZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2023967177737417026",
+        "created_at": "2026-02-18T03:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023967177737417026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023967177737417026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 19468,
+          "like_count": 245,
+          "quote_count": 7,
+          "reply_count": 35,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个暴论，就是百分之95的中国人对公共议题上复杂性的理解止步于“正反两面看”，也就是臭名昭著的所谓“辩证地看待”👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27473,
+          "following_count": 2246,
+          "like_count": 29052,
+          "listed_count": 20,
+          "media_count": 1861,
+          "tweet_count": 29466
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

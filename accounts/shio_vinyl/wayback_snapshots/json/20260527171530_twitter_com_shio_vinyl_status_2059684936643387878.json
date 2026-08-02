@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059488134409425204",
+    "created_at": "2026-05-27T17:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059684936643387878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1455052587145723904",
+          "start": 0,
+          "username": "MizukiWorkshop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059684936643387878",
+    "in_reply_to_user_id": "1455052587145723904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你自己都承认“恋童障碍”不是欲望了，那不正好说明临床诊断根本不能替代“欲望对象能否正常化”的公共伦理讨论吗？公共伦理才不管你临床上叫它欲望、唤起还是障碍，它只看指向的对象是谁，以及这种指向能不能被公共伦理意义正常化。指向无法有效同意的人换再多词也改不了这东西是灰色地带的事实，能不能别玩术语游戏了🫠"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059681754781274520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukiWorkshop 你自己都承认“恋童障碍”不是欲望了，那不正好说明临床诊断根本不能替代“欲望对象能否正常化”的公共伦理讨论吗？公共伦理才不管你临床上叫它欲望、唤起还是障碍，它只看指向的对象是谁，以及这种指向能不能被公共伦理意义正常化。指向无法有效同意的人换再多词也改不了这东西是灰色地带的事实，能不能别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059488134409425204",
+        "created_at": "2026-05-27T17:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059684936643387878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1455052587145723904",
+              "start": 0,
+              "username": "MizukiWorkshop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059684936643387878",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你自己都承认“恋童障碍”不是欲望了，那不正好说明临床诊断根本不能替代“欲望对象能否正常化”的公共伦理讨论吗？公共伦理才不管你临床上叫它欲望、唤起还是障碍，它只看指向的对象是谁，以及这种指向能不能被公共伦理意义正常化。指向无法有效同意的人换再多词也改不了这东西是灰色地带的事实，能不能别玩术语游戏了🫠"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059681754781274520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiWorkshop 你自己都承认“恋童障碍”不是欲望了，那不正好说明临床诊断根本不能替代“欲望对象能否正常化”的公共伦理讨论吗？公共伦理才不管你临床上叫它欲望、唤起还是障碍，它只看指向的对象是谁，以及这种指向能不能被公共伦理意义正常化。指向无法有效同意的人换再多词也改不了这东西是灰色地带的事实，能不能别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "2059488134409425204",
+        "created_at": "2026-05-27T17:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059681754781274520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059681754781274520",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059681362156617804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 公共伦理参与生命活动，给赤裸生命赋予形式，我们称之为什么呢？——生命政治。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27905,
+          "following_count": 2244,
+          "like_count": 28639,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29573
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 1164,
+          "like_count": 117357,
+          "listed_count": 7,
+          "media_count": 1748,
+          "tweet_count": 23859
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

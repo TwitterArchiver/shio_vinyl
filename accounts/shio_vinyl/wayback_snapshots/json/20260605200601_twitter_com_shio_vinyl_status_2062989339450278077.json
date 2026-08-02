@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062989332898852865",
+        "3_2062989332894601216"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2062989339450278077",
+    "created_at": "2026-06-05T20:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062989339450278077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XTFCjrI2xJ",
+          "end": 67,
+          "expanded_url": "https://x.com/shio_vinyl/status/2062989339450278077/photo/1",
+          "media_key": "3_2062989332898852865",
+          "start": 44,
+          "url": "https://t.co/XTFCjrI2xJ"
+        },
+        {
+          "display_url": "pic.x.com/XTFCjrI2xJ",
+          "end": 67,
+          "expanded_url": "https://x.com/shio_vinyl/status/2062989339450278077/photo/1",
+          "media_key": "3_2062989332894601216",
+          "start": 44,
+          "url": "https://t.co/XTFCjrI2xJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062989339450278077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在做一个给agent用的小东西，感觉再优化一下视觉就很好用了🐱\n（有人会猜到在做什么吗 https://t.co/XTFCjrI2xJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_2062989332898852865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKE13jrbMAE6GMK.jpg",
+        "width": 1175
+      },
+      {
+        "height": 1005,
+        "media_key": "3_2062989332894601216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKE13jqaUAAwwGY.jpg",
+        "width": 1185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062989332898852865",
+            "3_2062989332894601216"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2062989339450278077",
+        "created_at": "2026-06-05T20:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062989339450278077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTFCjrI2xJ",
+              "end": 67,
+              "expanded_url": "https://x.com/shio_vinyl/status/2062989339450278077/photo/1",
+              "media_key": "3_2062989332898852865",
+              "start": 44,
+              "url": "https://t.co/XTFCjrI2xJ"
+            },
+            {
+              "display_url": "pic.x.com/XTFCjrI2xJ",
+              "end": 67,
+              "expanded_url": "https://x.com/shio_vinyl/status/2062989339450278077/photo/1",
+              "media_key": "3_2062989332894601216",
+              "start": 44,
+              "url": "https://t.co/XTFCjrI2xJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062989339450278077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在做一个给agent用的小东西，感觉再优化一下视觉就很好用了🐱\n（有人会猜到在做什么吗 https://t.co/XTFCjrI2xJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27894,
+          "following_count": 2243,
+          "like_count": 28635,
+          "listed_count": 20,
+          "media_count": 1888,
+          "tweet_count": 29598
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

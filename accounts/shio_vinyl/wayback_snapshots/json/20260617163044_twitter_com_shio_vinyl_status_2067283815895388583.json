@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2067283815895388583",
+    "created_at": "2026-06-17T16:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067283815895388583"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067283815895388583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些中x跨女博主纯粹是一种4i男或者男m心态，我不好说得太难听，但真的就是这样😓\n这种情况下大家骂它反而会让它爽到了，因为让它确立了某种人设，某种意义上也是一种troll的变体😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2067283815895388583",
+        "created_at": "2026-06-17T16:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067283815895388583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067283815895388583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些中x跨女博主纯粹是一种4i男或者男m心态，我不好说得太难听，但真的就是这样😓\n这种情况下大家骂它反而会让它爽到了，因为让它确立了某种人设，某种意义上也是一种troll的变体😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27971,
+          "following_count": 2242,
+          "like_count": 23675,
+          "listed_count": 21,
+          "media_count": 1911,
+          "tweet_count": 29656
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

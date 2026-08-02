@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2023992386460741875",
+    "created_at": "2026-02-18T05:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023992386460741875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023992386460741875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得比起蠢还是坏，影响微观法西斯诞生与否的关键还是“是否允许复杂性”，无论从个体到集体。\n右翼民粹实际上是跨阶层的，但是我们都能寻找到这些人的某些普遍特征，即“意义缺失的现代主体寻找某种单一的敌人结构作为意义支撑”。\n很多时候拥有更多的知识并不意味着更能够承受现实世界的复杂性。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2023992386460741875",
+        "created_at": "2026-02-18T05:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023992386460741875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023992386460741875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得比起蠢还是坏，影响微观法西斯诞生与否的关键还是“是否允许复杂性”，无论从个体到集体。\n右翼民粹实际上是跨阶层的，但是我们都能寻找到这些人的某些普遍特征，即“意义缺失的现代主体寻找某种单一的敌人结构作为意义支撑”。\n很多时候拥有更多的知识并不意味着更能够承受现实世界的复杂性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27465,
+          "following_count": 2246,
+          "like_count": 29051,
+          "listed_count": 20,
+          "media_count": 1861,
+          "tweet_count": 29465
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

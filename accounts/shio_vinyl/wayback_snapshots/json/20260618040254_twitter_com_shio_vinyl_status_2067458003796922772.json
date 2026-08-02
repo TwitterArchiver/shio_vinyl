@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067457995198570496"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2067458003796922772",
+    "created_at": "2026-06-18T04:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067458003796922772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tf4iU27Otn",
+          "end": 40,
+          "expanded_url": "https://x.com/shio_vinyl/status/2067458003796922772/photo/1",
+          "media_key": "3_2067457995198570496",
+          "start": 17,
+          "url": "https://t.co/tf4iU27Otn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067458003796922772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "果然还是高并发工具调用的bug吧 https://t.co/tf4iU27Otn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2067457995198570496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEWF7_aIAAmWPK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067457995198570496"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2067458003796922772",
+        "created_at": "2026-06-18T04:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067458003796922772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tf4iU27Otn",
+              "end": 40,
+              "expanded_url": "https://x.com/shio_vinyl/status/2067458003796922772/photo/1",
+              "media_key": "3_2067457995198570496",
+              "start": 17,
+              "url": "https://t.co/tf4iU27Otn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067458003796922772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果然还是高并发工具调用的bug吧 https://t.co/tf4iU27Otn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27971,
+          "following_count": 2243,
+          "like_count": 23676,
+          "listed_count": 21,
+          "media_count": 1914,
+          "tweet_count": 29659
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

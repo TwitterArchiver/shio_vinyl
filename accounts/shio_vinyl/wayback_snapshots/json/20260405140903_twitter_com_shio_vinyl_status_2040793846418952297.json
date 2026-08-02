@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040793839359905792"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2040793846418952297",
+    "created_at": "2026-04-05T14:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T15:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040793846418952297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cPVXKRKEs0",
+          "end": 90,
+          "expanded_url": "https://x.com/shio_vinyl/status/2040793846418952297/photo/1",
+          "media_key": "3_2040793839359905792",
+          "start": 67,
+          "url": "https://t.co/cPVXKRKEs0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040793846418952297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "cc的这种语言混乱现象已经污染到输出的文档了🥹\n昨天甚至还跑出了韩语，今天更严重了，我提示让他使用中文也没办法，新开会话也还是这样😭 https://t.co/cPVXKRKEs0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2040793839359905792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJbLy7aUAAvdLv.jpg",
+        "width": 1386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040793839359905792"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2040793846418952297",
+        "created_at": "2026-04-05T14:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040793846418952297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cPVXKRKEs0",
+              "end": 90,
+              "expanded_url": "https://x.com/shio_vinyl/status/2040793846418952297/photo/1",
+              "media_key": "3_2040793839359905792",
+              "start": 67,
+              "url": "https://t.co/cPVXKRKEs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040793846418952297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cc的这种语言混乱现象已经污染到输出的文档了🥹\n昨天甚至还跑出了韩语，今天更严重了，我提示让他使用中文也没办法，新开会话也还是这样😭 https://t.co/cPVXKRKEs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27486,
+          "following_count": 2239,
+          "like_count": 28994,
+          "listed_count": 20,
+          "media_count": 1864,
+          "tweet_count": 29498
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

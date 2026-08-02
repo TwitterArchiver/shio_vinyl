@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2075973250157555861",
+    "created_at": "2026-07-12T02:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076135633853321560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1108265084516655109",
+          "start": 0,
+          "username": "huiye0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076135633853321560",
+    "in_reply_to_user_id": "1108265084516655109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076012898321940984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huiye0 所以也是纯男社区✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2075973250157555861",
+        "created_at": "2026-07-12T02:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076135633853321560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1108265084516655109",
+              "start": 0,
+              "username": "huiye0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076135633853321560",
+        "in_reply_to_user_id": "1108265084516655109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076012898321940984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huiye0 所以也是纯男社区✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108265084516655109",
+        "conversation_id": "2075973250157555861",
+        "created_at": "2026-07-11T18:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076012898321940984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076012898321940984",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075973250157555861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 因为那是男同社区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28107,
+          "following_count": 2242,
+          "like_count": 23448,
+          "listed_count": 21,
+          "media_count": 1943,
+          "tweet_count": 29726
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-20T07:12:41.000Z",
+        "description": "集键政、看黄、三好于一体的邪恶男子",
+        "id": "1108265084516655109",
+        "location": "不是天堂，不是地狱",
+        "name": "乐之恶魔上官灰夜🏳️‍🌈（三好LGBT份子）",
+        "pinned_tweet_id": "1832288050501820713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703360101216866304/VhybS8qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 5131,
+          "like_count": 42770,
+          "listed_count": 2,
+          "media_count": 345,
+          "tweet_count": 5760
+        },
+        "url": "",
+        "username": "huiye0",
+        "verified": false
+      }
+    ]
+  }
+}

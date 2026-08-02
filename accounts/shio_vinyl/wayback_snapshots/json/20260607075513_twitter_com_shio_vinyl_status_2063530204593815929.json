@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2063530204593815929",
+    "created_at": "2026-06-07T07:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063530204593815929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063530204593815929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实即使排除个人的立场和感情因素，我还是觉得中国人就是普遍存在一种对威权式人物的暧昧感情，甚至是跨立场的精神分裂式的。\n比如看撒切尔、全斗焕和萨达姆在国内舆论的评价演变就可以看出来了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2063530204593815929",
+        "created_at": "2026-06-07T07:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063530204593815929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063530204593815929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实即使排除个人的立场和感情因素，我还是觉得中国人就是普遍存在一种对威权式人物的暧昧感情，甚至是跨立场的精神分裂式的。\n比如看撒切尔、全斗焕和萨达姆在国内舆论的评价演变就可以看出来了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27900,
+          "following_count": 2243,
+          "like_count": 28643,
+          "listed_count": 20,
+          "media_count": 1894,
+          "tweet_count": 29616
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059359341220897201",
+    "created_at": "2026-05-26T19:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059359341220897201"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059359341220897201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "“不能因为一个人没做出行为就定罪”，并不等于“公共伦理不能讨论一个人的欲望对象是否是在公共伦理下是正当的”。\n比如老师对学生、医生对病人、领导对下属产生越界欲望，即使还没有真正做什么，人们也会觉得需要警惕和克制。因为这里本来就存在权力不对等。问题不只是“做没做”，还包括“这种欲望所带来的关系能不能被当成正常”。\n儿童没有成熟的判断能力，也无法真正承担后果，所以把儿童当作欲望对象，不能被说成只是“个人偏好”或者一种“身份”。\n法律不会因为一个人的想法直接处罚他，但这也不代表公共伦理必须保持沉默。就像一个人心里有种族歧视，法律未必直接惩罚，但社会也不会因此认为它是合理的👁️💧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“不能因为一个人没做出行为就定罪”，并不等于“公共伦理不能讨论一个人的欲望对象是否是在公共伦理下是正当的”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059359341220897201",
+        "created_at": "2026-05-26T19:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059359341220897201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059359341220897201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“不能因为一个人没做出行为就定罪”，并不等于“公共伦理不能讨论一个人的欲望对象是否是在公共伦理下是正当的”。\n比如老师对学生、医生对病人、领导对下属产生越界欲望，即使还没有真正做什么，人们也会觉得需要警惕和克制。因为这里本来就存在权力不对等。问题不只是“做没做”，还包括“这种欲望所带来的关系能不能被当成正常”。\n儿童没有成熟的判断能力，也无法真正承担后果，所以把儿童当作欲望对象，不能被说成只是“个人偏好”或者一种“身份”。\n法律不会因为一个人的想法直接处罚他，但这也不代表公共伦理必须保持沉默。就像一个人心里有种族歧视，法律未必直接惩罚，但社会也不会因此认为它是合理的👁️💧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“不能因为一个人没做出行为就定罪”，并不等于“公共伦理不能讨论一个人的欲望对象是否是在公共伦理下是正当的”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27912,
+          "following_count": 2245,
+          "like_count": 28639,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29555
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

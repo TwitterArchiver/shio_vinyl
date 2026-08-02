@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059301792228524380",
+    "created_at": "2026-05-26T19:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059357571551740371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678385508609839105",
+          "start": 0,
+          "username": "liueric40542933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059357571551740371",
+    "in_reply_to_user_id": "1678385508609839105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "“不能因无行为而治罪”不等于“公共伦理不能评价欲望对象”。\n前者我同意。法律处罚当然要看行为。但公共伦理评价的对象不只是行为结果，也包括欲望进入关系和公共承认后，会怎样改变他者的位置。老师对学生、医生对病人、上级对下属的越界欲望，即使没有行为，也会被要求警惕和约束，因为它涉及不对等关系。问题不只是“有没有做”，还包括“这种关系能不能被正常化”。\n儿童相关议题更明确。儿童无法形成有效同意，也无法承担后果，所以以儿童为对象的欲望不能被包装成普通偏好或身份。\n你图里的材料说的是治疗语境里的降低羞耻、促成求助、建立信任、维持边界。它支持不了公共语境中的正常化问题。法律不惩罚内心不等于公共伦理必须沉默。好比种族歧视问题一样，法律当然不会惩罚一个没有种族歧视行为的“心理层面的”种族歧视者，但是种族歧视心理是不能在公共伦理场域被正当化的👁️💧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059315785047429361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liueric40542933 “不能因无行为而治罪”不等于“公共伦理不能评价欲望对象”。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2059314892579180546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQn--zakAI_OPL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059301792228524380",
+        "created_at": "2026-05-26T19:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059357571551740371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678385508609839105",
+              "start": 0,
+              "username": "liueric40542933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059357571551740371",
+        "in_reply_to_user_id": "1678385508609839105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“不能因无行为而治罪”不等于“公共伦理不能评价欲望对象”。\n前者我同意。法律处罚当然要看行为。但公共伦理评价的对象不只是行为结果，也包括欲望进入关系和公共承认后，会怎样改变他者的位置。老师对学生、医生对病人、上级对下属的越界欲望，即使没有行为，也会被要求警惕和约束，因为它涉及不对等关系。问题不只是“有没有做”，还包括“这种关系能不能被正常化”。\n儿童相关议题更明确。儿童无法形成有效同意，也无法承担后果，所以以儿童为对象的欲望不能被包装成普通偏好或身份。\n你图里的材料说的是治疗语境里的降低羞耻、促成求助、建立信任、维持边界。它支持不了公共语境中的正常化问题。法律不惩罚内心不等于公共伦理必须沉默。好比种族歧视问题一样，法律当然不会惩罚一个没有种族歧视行为的“心理层面的”种族歧视者，但是种族歧视心理是不能在公共伦理场域被正当化的👁️💧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059315785047429361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liueric40542933 “不能因无行为而治罪”不等于“公共伦理不能评价欲望对象”。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059314892579180546"
+          ]
+        },
+        "author_id": "1678385508609839105",
+        "conversation_id": "2059301792228524380",
+        "created_at": "2026-05-26T16:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059315785047429361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNHGYSmzgb",
+              "end": 112,
+              "expanded_url": "https://x.com/liueric40542933/status/2059315785047429361/photo/1",
+              "media_key": "3_2059314892579180546",
+              "start": 89,
+              "url": "https://t.co/xNHGYSmzgb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059315785047429361",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059301792228524380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 还是那句：让他们接受自己是恋童的不等同接受对儿童的相关行为。\n欲望本身不应伦理化没错，没人应因自己不能选择的内心状态而被伦理批判，行为本身才是批判对象。 https://t.co/xNHGYSmzgb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27912,
+          "following_count": 2245,
+          "like_count": 28639,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29554
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-10T12:47:59.000Z",
+        "description": "no DM",
+        "id": "1678385508609839105",
+        "name": "liu eric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042591591240732682/kgzJmnTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 23,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 2033
+        },
+        "username": "liueric40542933",
+        "verified": false
+      }
+    ]
+  }
+}

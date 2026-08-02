@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059686222176665984",
+    "created_at": "2026-05-27T17:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059686222176665984"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059686222176665984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我算是看明白了，只要能包装成“反污名”“少数处境”“临床接纳”公共伦理就可以喂狗吃了。\n“别把人当怪物”直接偷换成“别评价这个东西有没有问题”原来这就叫进步吗🤡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059686222176665984",
+        "created_at": "2026-05-27T17:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059686222176665984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059686222176665984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我算是看明白了，只要能包装成“反污名”“少数处境”“临床接纳”公共伦理就可以喂狗吃了。\n“别把人当怪物”直接偷换成“别评价这个东西有没有问题”原来这就叫进步吗🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27905,
+          "following_count": 2244,
+          "like_count": 28639,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29574
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059581389973205344",
+    "created_at": "2026-05-27T10:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059581389973205344"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059581389973205344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "能不能不要有什么事情就搬出一个精神病或者心理问题来走个“去污名化”让社会包容，现代心理咨询很难的🫠\n医生接受咨询帮助你不代表就要认可你这些本身就具有公共伦理风险的欲望，认可你是个人类不代表认可你所有的想法和行为都属于一个现代伦理范围内的人类👁️💧\n找这种说法是否诸如例如虐待动物的人是否都可以这样“去污名化”？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能不能不要有什么事情就搬出一个精神病或者心理问题来走个“去污名化”让社会包容，现代心理咨询很难的🫠\n医生接受咨询帮助你不代表就要认可你这些本身就具有公共伦理风险的欲望，认可你是个人类不代表认可你所有的想法和行为都属于一个现代伦理范围内的人类👁️💧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059581389973205344",
+        "created_at": "2026-05-27T10:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059581389973205344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059581389973205344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "能不能不要有什么事情就搬出一个精神病或者心理问题来走个“去污名化”让社会包容，现代心理咨询很难的🫠\n医生接受咨询帮助你不代表就要认可你这些本身就具有公共伦理风险的欲望，认可你是个人类不代表认可你所有的想法和行为都属于一个现代伦理范围内的人类👁️💧\n找这种说法是否诸如例如虐待动物的人是否都可以这样“去污名化”？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能不要有什么事情就搬出一个精神病或者心理问题来走个“去污名化”让社会包容，现代心理咨询很难的🫠\n医生接受咨询帮助你不代表就要认可你这些本身就具有公共伦理风险的欲望，认可你是个人类不代表认可你所有的想法和行为都属于一个现代伦理范围内的人类👁️💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27904,
+          "following_count": 2244,
+          "like_count": 28640,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29561
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022384532276854784"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2022384538517991830",
+    "created_at": "2026-02-13T18:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T19:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022384538517991830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nbHwXWtJ7V",
+          "end": 45,
+          "expanded_url": "https://x.com/shio_vinyl/status/2022384538517991830/photo/1",
+          "media_key": "3_2022384532276854784",
+          "start": 22,
+          "url": "https://t.co/nbHwXWtJ7V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022384538517991830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忘kill假人了不小心挂了4百多只烈焰人🥹 https://t.co/nbHwXWtJ7V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "3_2022384532276854784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBD0BF2bQAA5VA2.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022384532276854784"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2022384538517991830",
+        "created_at": "2026-02-13T18:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022384538517991830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbHwXWtJ7V",
+              "end": 45,
+              "expanded_url": "https://x.com/shio_vinyl/status/2022384538517991830/photo/1",
+              "media_key": "3_2022384532276854784",
+              "start": 22,
+              "url": "https://t.co/nbHwXWtJ7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022384538517991830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘kill假人了不小心挂了4百多只烈焰人🥹 https://t.co/nbHwXWtJ7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27451,
+          "following_count": 2245,
+          "like_count": 29052,
+          "listed_count": 20,
+          "media_count": 1861,
+          "tweet_count": 29461
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

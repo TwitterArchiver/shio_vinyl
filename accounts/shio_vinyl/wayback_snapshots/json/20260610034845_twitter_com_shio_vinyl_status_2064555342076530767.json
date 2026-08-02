@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2064555113184944390",
+    "created_at": "2026-06-10T03:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064555342076530767"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064555342076530767",
+    "in_reply_to_user_id": "1359161118300766219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064555113184944390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于一刀切政策，可以看看类似的未成年人网游和社媒政策的效果😶‍🌫️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2064555105333178368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbF7giacAA9CJU.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2064555113184944390",
+        "created_at": "2026-06-10T03:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064555342076530767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064555342076530767",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064555113184944390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于一刀切政策，可以看看类似的未成年人网游和社媒政策的效果😶‍🌫️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064555105333178368"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2064555113184944390",
+        "created_at": "2026-06-10T03:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064555113184944390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqeyzuU0Wk",
+              "end": 163,
+              "expanded_url": "https://x.com/shio_vinyl/status/2064555113184944390/photo/1",
+              "media_key": "3_2064555105333178368",
+              "start": 140,
+              "url": "https://t.co/nqeyzuU0Wk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064555113184944390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉现在舆论就和疯子一样，大概是因为发泄情绪并不需要对现实负责…\n16周岁我觉得是最合理的，再往上我觉得意义就不大了，关键性的保护措施还是得针对特殊关系的量化规范（例如师生、亲属无年龄限制，甚至可以加入更严格的行为判断；近龄关系就可以适当宽松）\n关键还是性教育水平和特殊保护🫠 https://t.co/nqeyzuU0Wk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27928,
+          "following_count": 2244,
+          "like_count": 28571,
+          "listed_count": 21,
+          "media_count": 1907,
+          "tweet_count": 29639
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

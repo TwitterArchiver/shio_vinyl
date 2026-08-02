@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059581389973205344",
+    "created_at": "2026-05-27T17:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059682292931641434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678385508609839105",
+          "start": 0,
+          "username": "liueric40542933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059682292931641434",
+    "in_reply_to_user_id": "1678385508609839105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059679128270586326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liueric40542933 我都不想继续让你杠了，你干脆把DSM-5直接升级成全社会道德圣经把整个地球当精神病院开诊所得了，祝福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059581389973205344",
+        "created_at": "2026-05-27T17:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059682292931641434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678385508609839105",
+              "start": 0,
+              "username": "liueric40542933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059682292931641434",
+        "in_reply_to_user_id": "1678385508609839105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059679128270586326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liueric40542933 我都不想继续让你杠了，你干脆把DSM-5直接升级成全社会道德圣经把整个地球当精神病院开诊所得了，祝福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678385508609839105",
+        "conversation_id": "2059581389973205344",
+        "created_at": "2026-05-27T16:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059679128270586326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059679128270586326",
+        "in_reply_to_user_id": "1678385508609839105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059678740700094528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 「只要每一个人都在性上不采用正常/不正常这一理解……」性问题基本可用这一标准处理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27905,
+          "following_count": 2244,
+          "like_count": 28638,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29572
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-10T12:47:59.000Z",
+        "description": "no DM",
+        "id": "1678385508609839105",
+        "name": "liu eric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042591591240732682/kgzJmnTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 23,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 2076
+        },
+        "username": "liueric40542933",
+        "verified": false
+      }
+    ]
+  }
+}

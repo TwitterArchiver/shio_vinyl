@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072192554913906688"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2072192571494051884",
+    "created_at": "2026-07-01T05:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072192571494051884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M0958ktWzW",
+          "end": 41,
+          "expanded_url": "https://x.com/shio_vinyl/status/2072192571494051884/photo/1",
+          "media_key": "3_2072192554913906688",
+          "start": 18,
+          "url": "https://t.co/M0958ktWzW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072192571494051884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这两家在简中怎么总是一起出现👁️💧 https://t.co/M0958ktWzW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072192554913906688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHoJlXaQAAP0eK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072192554913906688"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2072192571494051884",
+        "created_at": "2026-07-01T05:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072192571494051884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0958ktWzW",
+              "end": 41,
+              "expanded_url": "https://x.com/shio_vinyl/status/2072192571494051884/photo/1",
+              "media_key": "3_2072192554913906688",
+              "start": 18,
+              "url": "https://t.co/M0958ktWzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072192571494051884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两家在简中怎么总是一起出现👁️💧 https://t.co/M0958ktWzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28060,
+          "following_count": 2243,
+          "like_count": 23442,
+          "listed_count": 21,
+          "media_count": 1940,
+          "tweet_count": 29706
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

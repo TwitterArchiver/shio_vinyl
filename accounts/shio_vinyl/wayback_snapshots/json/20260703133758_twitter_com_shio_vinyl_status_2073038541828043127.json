@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073038530595729408"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2073038541828043127",
+    "created_at": "2026-07-03T13:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073038541828043127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KYfX2UsKDQ",
+          "end": 91,
+          "expanded_url": "https://x.com/shio_vinyl/status/2073038541828043127/photo/1",
+          "media_key": "3_2073038530595729408",
+          "start": 68,
+          "url": "https://t.co/KYfX2UsKDQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073038541828043127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠看看我找到了什么，而且这份地图还是配准过的😭😭😭\n不得不说德国的这些地方性机构总是能给我惊喜，真的很多这种小众资料啊，还这么详细😿 https://t.co/KYfX2UsKDQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_2073038530595729408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTpj2XbMAAwqxY.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073038530595729408"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2073038541828043127",
+        "created_at": "2026-07-03T13:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073038541828043127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KYfX2UsKDQ",
+              "end": 91,
+              "expanded_url": "https://x.com/shio_vinyl/status/2073038541828043127/photo/1",
+              "media_key": "3_2073038530595729408",
+              "start": 68,
+              "url": "https://t.co/KYfX2UsKDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073038541828043127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠看看我找到了什么，而且这份地图还是配准过的😭😭😭\n不得不说德国的这些地方性机构总是能给我惊喜，真的很多这种小众资料啊，还这么详细😿 https://t.co/KYfX2UsKDQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28062,
+          "following_count": 2244,
+          "like_count": 23448,
+          "listed_count": 21,
+          "media_count": 1942,
+          "tweet_count": 29713
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

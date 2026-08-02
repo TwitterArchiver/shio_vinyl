@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2047626888152285224",
+    "created_at": "2026-04-24T10:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047626888152285224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mukdengise/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/mukdengise/status/2047230133808034076",
+          "start": 20,
+          "url": "https://t.co/QlqE0rOpf2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047626888152285224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047230133808034076",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我认为多元友好应该是提供一个第三混寝… https://t.co/QlqE0rOpf2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047230111188135936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk48H7aMAAs1xI.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047230111213404160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk48IBbwAAbyH_.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047230111196631040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk48H9b0AAGvlE.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2047626888152285224",
+        "created_at": "2026-04-24T10:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047626888152285224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/mukdengise/status/2047230133808034076",
+              "start": 20,
+              "url": "https://t.co/QlqE0rOpf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047626888152285224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047230133808034076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为多元友好应该是提供一个第三混寝… https://t.co/QlqE0rOpf2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047230111188135936",
+            "3_2047230111213404160",
+            "3_2047230111196631040"
+          ]
+        },
+        "author_id": "1401733664682102786",
+        "conversation_id": "2047230133808034076",
+        "created_at": "2026-04-23T08:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047230133808034076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIVyo3JbkE",
+              "end": 50,
+              "expanded_url": "https://x.com/mukdengise/status/2047230133808034076/photo/1",
+              "media_key": "3_2047230111188135936",
+              "start": 27,
+              "url": "https://t.co/JIVyo3JbkE"
+            },
+            {
+              "display_url": "pic.x.com/JIVyo3JbkE",
+              "end": 50,
+              "expanded_url": "https://x.com/mukdengise/status/2047230133808034076/photo/1",
+              "media_key": "3_2047230111213404160",
+              "start": 27,
+              "url": "https://t.co/JIVyo3JbkE"
+            },
+            {
+              "display_url": "pic.x.com/JIVyo3JbkE",
+              "end": 50,
+              "expanded_url": "https://x.com/mukdengise/status/2047230133808034076/photo/1",
+              "media_key": "3_2047230111196631040",
+              "start": 27,
+              "url": "https://t.co/JIVyo3JbkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047230133808034076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 87144,
+          "like_count": 248,
+          "quote_count": 21,
+          "reply_count": 75,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "真的很烂。避雷所谓打着多元友好旗号的大理打工换宿空间 https://t.co/JIVyo3JbkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27282,
+          "following_count": 2239,
+          "like_count": 28996,
+          "listed_count": 20,
+          "media_count": 1871,
+          "tweet_count": 29524
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/好诡秘：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "2045520898812481725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021635233884598273/yaJUaGpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10071,
+          "following_count": 761,
+          "like_count": 140009,
+          "listed_count": 52,
+          "media_count": 1864,
+          "tweet_count": 24885
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

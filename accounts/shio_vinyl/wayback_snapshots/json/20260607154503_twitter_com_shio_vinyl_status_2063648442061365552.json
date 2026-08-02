@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2063250589111468201",
+    "created_at": "2026-06-07T15:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063648442061365552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799303535726911488",
+          "start": 0,
+          "username": "gudude_shijian"
+        },
+        {
+          "end": 23,
+          "id": "1687437472177999872",
+          "start": 16,
+          "username": "me4mog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063648442061365552",
+    "in_reply_to_user_id": "1799303535726911488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063635832117002242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gudude_shijian @me4mog 把政治评价分成能力问题和道德问题本身就值得深思了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2063250589111468201",
+        "created_at": "2026-06-07T15:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063648442061365552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799303535726911488",
+              "start": 0,
+              "username": "gudude_shijian"
+            },
+            {
+              "end": 23,
+              "id": "1687437472177999872",
+              "start": 16,
+              "username": "me4mog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063648442061365552",
+        "in_reply_to_user_id": "1799303535726911488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063635832117002242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gudude_shijian @me4mog 把政治评价分成能力问题和道德问题本身就值得深思了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799303535726911488",
+        "conversation_id": "2063250589111468201",
+        "created_at": "2026-06-07T14:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063635832117002242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            },
+            {
+              "end": 19,
+              "id": "1687437472177999872",
+              "start": 12,
+              "username": "me4mog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063635832117002242",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063529178159607827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl @me4mog 因为能力和道德很多时候会分开看。\n只要能力跟道德有一个还行通常而言就不会被全面贬低，但如果两个都不行的话那可想而知。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27902,
+          "following_count": 2244,
+          "like_count": 28648,
+          "listed_count": 21,
+          "media_count": 1897,
+          "tweet_count": 29625
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-08T04:53:13.000Z",
+        "description": "孤独的视奸者，至少现在是可以活蹦乱跳的",
+        "id": "1799303535726911488",
+        "name": "咕贰喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055637770543190016/l0_n1tR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 5996,
+          "like_count": 7330,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 757
+        },
+        "username": "gudude_shijian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T12:17:08.000Z",
+        "description": "xルールってなんだよ",
+        "id": "1687437472177999872",
+        "name": "めしもぐ",
+        "pinned_tweet_id": "1687453397614829568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687441172338495488/Kt1UAbsW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 65,
+          "like_count": 4965,
+          "listed_count": 5,
+          "media_count": 844,
+          "tweet_count": 8121
+        },
+        "username": "me4mog",
+        "verified": false
+      }
+    ]
+  }
+}

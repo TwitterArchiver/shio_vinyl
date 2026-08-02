@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2063250589111468201",
+    "created_at": "2026-06-08T07:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063892479422939471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799303535726911488",
+          "start": 0,
+          "username": "gudude_shijian"
+        },
+        {
+          "end": 23,
+          "id": "1687437472177999872",
+          "start": 16,
+          "username": "me4mog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063892479422939471",
+    "in_reply_to_user_id": "1799303535726911488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063888879095312667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gudude_shijian @me4mog 如果你真的觉得国家暴力能归为道德问题来讨论那我也不好反驳什么，但是从“必要的牺牲”视角来看政治真的客观？现代国家的权力合法性到底来源于哪里？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2063250589111468201",
+        "created_at": "2026-06-08T07:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063892479422939471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799303535726911488",
+              "start": 0,
+              "username": "gudude_shijian"
+            },
+            {
+              "end": 23,
+              "id": "1687437472177999872",
+              "start": 16,
+              "username": "me4mog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063892479422939471",
+        "in_reply_to_user_id": "1799303535726911488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063888879095312667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gudude_shijian @me4mog 如果你真的觉得国家暴力能归为道德问题来讨论那我也不好反驳什么，但是从“必要的牺牲”视角来看政治真的客观？现代国家的权力合法性到底来源于哪里？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799303535726911488",
+        "conversation_id": "2063250589111468201",
+        "created_at": "2026-06-08T07:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063888879095312667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            },
+            {
+              "end": 19,
+              "id": "1687437472177999872",
+              "start": 12,
+              "username": "me4mog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063888879095312667",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063885154888950044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl @me4mog 这是政治手段问题，政治就是你改一下就可能让某一个统计数据非常好看，但很多人根本不会在意其他降低的数据。\n在这个层面用对个体的道德衡量会感觉过于无力，因为已经不是一个人了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27913,
+          "following_count": 2245,
+          "like_count": 28650,
+          "listed_count": 21,
+          "media_count": 1901,
+          "tweet_count": 29631
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-08T04:53:13.000Z",
+        "description": "孤独的视奸者，至少现在是可以活蹦乱跳的",
+        "id": "1799303535726911488",
+        "name": "咕贰喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055637770543190016/l0_n1tR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 5996,
+          "like_count": 7337,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 769
+        },
+        "username": "gudude_shijian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T12:17:08.000Z",
+        "description": "xルールってなんだよ",
+        "id": "1687437472177999872",
+        "name": "めしもぐ",
+        "pinned_tweet_id": "1687453397614829568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687441172338495488/Kt1UAbsW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 65,
+          "like_count": 4969,
+          "listed_count": 5,
+          "media_count": 844,
+          "tweet_count": 8131
+        },
+        "username": "me4mog",
+        "verified": false
+      }
+    ]
+  }
+}

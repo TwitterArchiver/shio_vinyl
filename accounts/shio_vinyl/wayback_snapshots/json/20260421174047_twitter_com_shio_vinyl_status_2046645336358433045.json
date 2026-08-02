@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046645328678723584",
+        "3_2046645328682823680"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2046645336358433045",
+    "created_at": "2026-04-21T17:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046645336358433045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RbPgYIGXAr",
+          "end": 65,
+          "expanded_url": "https://x.com/shio_vinyl/status/2046645336358433045/photo/1",
+          "media_key": "3_2046645328678723584",
+          "start": 42,
+          "url": "https://t.co/RbPgYIGXAr"
+        },
+        {
+          "display_url": "pic.x.com/RbPgYIGXAr",
+          "end": 65,
+          "expanded_url": "https://x.com/shio_vinyl/status/2046645336358433045/photo/1",
+          "media_key": "3_2046645328682823680",
+          "start": 42,
+          "url": "https://t.co/RbPgYIGXAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046645336358433045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不提能不能实现，gpt这配色和质感就好太多了…（不提前端能不能做出这种效果😶‍🌫️ https://t.co/RbPgYIGXAr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2046645328678723584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGclFTUboAAM9di.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2046645328682823680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGclFTVaMAANDo8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046645328678723584",
+            "3_2046645328682823680"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2046645336358433045",
+        "created_at": "2026-04-21T17:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046645336358433045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbPgYIGXAr",
+              "end": 65,
+              "expanded_url": "https://x.com/shio_vinyl/status/2046645336358433045/photo/1",
+              "media_key": "3_2046645328678723584",
+              "start": 42,
+              "url": "https://t.co/RbPgYIGXAr"
+            },
+            {
+              "display_url": "pic.x.com/RbPgYIGXAr",
+              "end": 65,
+              "expanded_url": "https://x.com/shio_vinyl/status/2046645336358433045/photo/1",
+              "media_key": "3_2046645328682823680",
+              "start": 42,
+              "url": "https://t.co/RbPgYIGXAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046645336358433045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不提能不能实现，gpt这配色和质感就好太多了…（不提前端能不能做出这种效果😶‍🌫️ https://t.co/RbPgYIGXAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27287,
+          "following_count": 2240,
+          "like_count": 28997,
+          "listed_count": 20,
+          "media_count": 1871,
+          "tweet_count": 29523
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

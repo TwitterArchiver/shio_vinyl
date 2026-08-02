@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2057025520743891405",
+    "created_at": "2026-05-20T09:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057025520743891405"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057025520743891405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你在列车上看到对面那辆车朝你驶来就以为它在进步；有没有一种可能只是因为是你这边倒车倒得更快，而对面根本没多少空间可后退了？更别提从家庭和社会文化来看老中就是个典型的新教神国…\n我记得自千禧年以来就不断有过类似不痛不痒的消息了，所以现在呢？👁️💧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2057025520743891405",
+        "created_at": "2026-05-20T09:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057025520743891405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057025520743891405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你在列车上看到对面那辆车朝你驶来就以为它在进步；有没有一种可能只是因为是你这边倒车倒得更快，而对面根本没多少空间可后退了？更别提从家庭和社会文化来看老中就是个典型的新教神国…\n我记得自千禧年以来就不断有过类似不痛不痒的消息了，所以现在呢？👁️💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27872,
+          "following_count": 2243,
+          "like_count": 28662,
+          "listed_count": 20,
+          "media_count": 1878,
+          "tweet_count": 29544
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2078887225136484832",
+    "created_at": "2026-07-19T16:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078887225136484832"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078887225136484832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "tg靠绩效主义维系的政治合法性破产或许只是时间问题，简中的各类见证人士都是这一问题的印证。\n实际上只是很简单的一句话罢了——如果你无法热爱自己祖国作为“弱小的存在”那种可能性，那么这种爱国主义破产只是时间问题。\n事实证明没有任何一种民族主义能逃过这个问题，所以这一切都是谎言。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2078887225136484832",
+        "created_at": "2026-07-19T16:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078887225136484832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078887225136484832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tg靠绩效主义维系的政治合法性破产或许只是时间问题，简中的各类见证人士都是这一问题的印证。\n实际上只是很简单的一句话罢了——如果你无法热爱自己祖国作为“弱小的存在”那种可能性，那么这种爱国主义破产只是时间问题。\n事实证明没有任何一种民族主义能逃过这个问题，所以这一切都是谎言。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28126,
+          "following_count": 2242,
+          "like_count": 23439,
+          "listed_count": 21,
+          "media_count": 1945,
+          "tweet_count": 29728
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

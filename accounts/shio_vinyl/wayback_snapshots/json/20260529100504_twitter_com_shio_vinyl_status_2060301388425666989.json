@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059678648819704002",
+    "created_at": "2026-05-29T10:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060301388425666989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1555058674619797504",
+          "start": 0,
+          "username": "AkaneSerenade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060301388425666989",
+    "in_reply_to_user_id": "1555058674619797504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059899325212418466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaneSerenade 星海"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059899325212418466].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059899325212418466",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059899325212418466"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059678648819704002",
+        "created_at": "2026-05-29T10:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060301388425666989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1555058674619797504",
+              "start": 0,
+              "username": "AkaneSerenade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060301388425666989",
+        "in_reply_to_user_id": "1555058674619797504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059899325212418466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaneSerenade 星海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27910,
+          "following_count": 2244,
+          "like_count": 28639,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29577
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-04T05:11:08.000Z",
+        "description": "中文/日本語(そこそこ)/英語(chat-level)。\n会经常想着能变可爱就好了，被大家说看起来像猫类(归化为东北肥猫!?)。\n渐渐变成一个无趣的人了，但并不想这样下去。\n一般不主动follow (害怕)，有点极端反性，不想谈政治，但三观不同也努力做到包容，只想安静地做一个好看的猫类(难…",
+        "id": "1555058674619797504",
+        "name": "みつき あかね",
+        "pinned_tweet_id": "1660660786988032000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666449972668125189/l_9yk-ax_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 110,
+          "like_count": 16121,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 8577
+        },
+        "username": "AkaneSerenade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2074509440401981677",
+    "created_at": "2026-07-07T15:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074510062333387087"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074510062333387087",
+    "in_reply_to_user_id": "1359161118300766219",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074509440401981677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "China didn’t avoid housing speculation. It built an entire growth model around it, then tried to discipline it after the risks became impossible to ignore！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2074509440401981677",
+        "created_at": "2026-07-07T15:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074510062333387087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074510062333387087",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074509440401981677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "China didn’t avoid housing speculation. It built an entire growth model around it, then tried to discipline it after the risks became impossible to ignore！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2074509440401981677",
+        "created_at": "2026-07-07T15:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074509440401981677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pubity/status/…",
+              "end": 267,
+              "expanded_url": "https://twitter.com/pubity/status/2074297346997793075",
+              "start": 244,
+              "url": "https://t.co/efWyYZr6Ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074509440401981677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074297346997793075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "No one benefited more from ever-rising home prices than the Chinese state and local governments — until the bubble collapsed.\nWestern pundits should stop projecting their domestic political fantasies onto China.\nIt’s intellectual cowardice.😅😅😅 https://t.co/efWyYZr6Ow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28088,
+          "following_count": 2244,
+          "like_count": 23447,
+          "listed_count": 21,
+          "media_count": 1943,
+          "tweet_count": 29717
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

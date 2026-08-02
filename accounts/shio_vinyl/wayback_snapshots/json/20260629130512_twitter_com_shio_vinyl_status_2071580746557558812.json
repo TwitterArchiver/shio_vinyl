@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071580735086235648"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2071580746557558812",
+    "created_at": "2026-06-29T13:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071580746557558812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNL4pFcc7d",
+          "end": 63,
+          "expanded_url": "https://x.com/shio_vinyl/status/2071580746557558812/photo/1",
+          "media_key": "3_2071580735086235648",
+          "start": 40,
+          "url": "https://t.co/rNL4pFcc7d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071580746557558812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在做一个欧洲王室和贵族的谱系展示和数据库，顺便还能接入我的历史政治地理数据库🐱 https://t.co/rNL4pFcc7d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2071580735086235648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-7s-5bkAAZamc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071580735086235648"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2071580746557558812",
+        "created_at": "2026-06-29T13:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071580746557558812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNL4pFcc7d",
+              "end": 63,
+              "expanded_url": "https://x.com/shio_vinyl/status/2071580746557558812/photo/1",
+              "media_key": "3_2071580735086235648",
+              "start": 40,
+              "url": "https://t.co/rNL4pFcc7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071580746557558812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在做一个欧洲王室和贵族的谱系展示和数据库，顺便还能接入我的历史政治地理数据库🐱 https://t.co/rNL4pFcc7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28050,
+          "following_count": 2244,
+          "like_count": 23440,
+          "listed_count": 21,
+          "media_count": 1934,
+          "tweet_count": 29700
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

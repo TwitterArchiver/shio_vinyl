@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2019367555560009960",
+    "created_at": "2026-02-05T11:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019367555560009960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2019227553450656240",
+          "start": 26,
+          "url": "https://t.co/0kM0XLiiCd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019367555560009960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019227553450656240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很好奇为什么这种人总是觉得自己不会是被优化的对象🫢 https://t.co/0kM0XLiiCd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019227542948048899",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAW8wIIacAMw3ir.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2019367555560009960",
+        "created_at": "2026-02-05T11:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019367555560009960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2019227553450656240",
+              "start": 26,
+              "url": "https://t.co/0kM0XLiiCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019367555560009960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019227553450656240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很好奇为什么这种人总是觉得自己不会是被优化的对象🫢 https://t.co/0kM0XLiiCd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019227542948048899"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2019227553450656240",
+        "created_at": "2026-02-05T01:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T02:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019227553450656240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8cXdJrJxn",
+              "end": 45,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2019227553450656240/photo/1",
+              "media_key": "3_2019227542948048899",
+              "start": 22,
+              "url": "https://t.co/r8cXdJrJxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019227553450656240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 59355,
+          "like_count": 426,
+          "quote_count": 6,
+          "reply_count": 64,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "为什么b站能直接挂出法西斯国家的国家格言😨 https://t.co/r8cXdJrJxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27430,
+          "following_count": 2245,
+          "like_count": 29082,
+          "listed_count": 20,
+          "media_count": 1859,
+          "tweet_count": 29456
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2017875249245917244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10127,
+          "following_count": 3806,
+          "like_count": 74098,
+          "listed_count": 16,
+          "media_count": 1706,
+          "tweet_count": 16859
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

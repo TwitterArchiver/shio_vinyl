@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2074509440401981677",
+    "created_at": "2026-07-07T15:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074509440401981677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pubity/status/…",
+          "end": 267,
+          "expanded_url": "https://twitter.com/pubity/status/2074297346997793075",
+          "start": 244,
+          "url": "https://t.co/efWyYZr6Ow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074509440401981677",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074297346997793075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "No one benefited more from ever-rising home prices than the Chinese state and local governments — until the bubble collapsed.\nWestern pundits should stop projecting their domestic political fantasies onto China.\nIt’s intellectual cowardice.😅😅😅 https://t.co/efWyYZr6Ow"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2074149281208954880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjbyC2XcAAf-Vo.jpg",
+        "width": 1200
+      },
+      {
+        "height": 805,
+        "media_key": "3_2074149281246646272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjbyC_WkAAmzkJ.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2074509440401981677",
+        "created_at": "2026-07-07T15:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074509440401981677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pubity/status/…",
+              "end": 267,
+              "expanded_url": "https://twitter.com/pubity/status/2074297346997793075",
+              "start": 244,
+              "url": "https://t.co/efWyYZr6Ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074509440401981677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074297346997793075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "No one benefited more from ever-rising home prices than the Chinese state and local governments — until the bubble collapsed.\nWestern pundits should stop projecting their domestic political fantasies onto China.\nIt’s intellectual cowardice.😅😅😅 https://t.co/efWyYZr6Ow"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074149281208954880",
+            "3_2074149281246646272"
+          ]
+        },
+        "author_id": "904630459539312640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074297346997793075",
+        "created_at": "2026-07-07T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074297346997793075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ZTqLCae4q",
+              "end": 229,
+              "expanded_url": "https://x.com/pubity/status/2074297346997793075/photo/1",
+              "media_key": "3_2074149281208954880",
+              "start": 206,
+              "url": "https://t.co/9ZTqLCae4q"
+            },
+            {
+              "display_url": "pic.x.com/9ZTqLCae4q",
+              "end": 229,
+              "expanded_url": "https://x.com/pubity/status/2074297346997793075/photo/1",
+              "media_key": "3_2074149281246646272",
+              "start": 206,
+              "url": "https://t.co/9ZTqLCae4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074297346997793075",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1043,
+          "impression_count": 1211582,
+          "like_count": 17482,
+          "quote_count": 438,
+          "reply_count": 233,
+          "retweet_count": 2047
+        },
+        "reply_settings": "everyone",
+        "text": "China's Real Estate market has erased all gains from the last 20 years.\n\nHousing prices are expected to fall even further, in line with the Chinese policy that \"houses are for living, not for speculation\". https://t.co/9ZTqLCae4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28088,
+          "following_count": 2244,
+          "like_count": 23447,
+          "listed_count": 21,
+          "media_count": 1943,
+          "tweet_count": 29716
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T09:01:23.000Z",
+        "description": "Informative, entertaining and breaking news.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubitygroup.com",
+                "end": 23,
+                "expanded_url": "http://pubitygroup.com",
+                "start": 0,
+                "url": "https://t.co/BwmjjB83kA"
+              }
+            ]
+          }
+        },
+        "id": "904630459539312640",
+        "location": "New York, USA",
+        "name": "Pubity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778055517925146624/nJXOa2UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306895,
+          "following_count": 169,
+          "like_count": 848,
+          "listed_count": 854,
+          "media_count": 11392,
+          "tweet_count": 12148
+        },
+        "url": "https://t.co/BwmjjB83kA",
+        "username": "pubity",
+        "verified": true
+      }
+    ]
+  }
+}

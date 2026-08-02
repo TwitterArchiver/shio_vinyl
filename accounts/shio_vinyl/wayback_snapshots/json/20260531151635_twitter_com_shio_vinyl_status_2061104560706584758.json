@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061104555484651520"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2061104560706584758",
+    "created_at": "2026-05-31T15:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061104560706584758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rs6CQdQxZS",
+          "end": 42,
+          "expanded_url": "https://x.com/shio_vinyl/status/2061104560706584758/photo/1",
+          "media_key": "3_2061104555484651520",
+          "start": 19,
+          "url": "https://t.co/Rs6CQdQxZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061104560706584758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "opus4.8真的鬼话一堆，好崩溃😫 https://t.co/Rs6CQdQxZS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2061104555484651520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqDrEqaIAALSj8.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061104555484651520"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2061104560706584758",
+        "created_at": "2026-05-31T15:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061104560706584758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rs6CQdQxZS",
+              "end": 42,
+              "expanded_url": "https://x.com/shio_vinyl/status/2061104560706584758/photo/1",
+              "media_key": "3_2061104555484651520",
+              "start": 19,
+              "url": "https://t.co/Rs6CQdQxZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061104560706584758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "opus4.8真的鬼话一堆，好崩溃😫 https://t.co/Rs6CQdQxZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27906,
+          "following_count": 2244,
+          "like_count": 28629,
+          "listed_count": 20,
+          "media_count": 1883,
+          "tweet_count": 29581
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

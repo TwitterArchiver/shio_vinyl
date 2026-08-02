@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2072661122029896119",
+    "created_at": "2026-07-02T12:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072661122029896119"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072661122029896119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我用codex把我之前做的一份1648神罗的数据集重新做了一遍，我之前做了快一个星期，它只花了两个小时还比我做的更准😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2072661122029896119",
+        "created_at": "2026-07-02T12:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072661122029896119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072661122029896119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我用codex把我之前做的一份1648神罗的数据集重新做了一遍，我之前做了快一个星期，它只花了两个小时还比我做的更准😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28055,
+          "following_count": 2244,
+          "like_count": 23449,
+          "listed_count": 21,
+          "media_count": 1941,
+          "tweet_count": 29710
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

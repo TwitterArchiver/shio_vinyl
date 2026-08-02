@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063884894162616320"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2063885308710756596",
+    "created_at": "2026-06-08T07:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:25:32.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063885118658544091",
+      "2063885308710756596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/khET27xB8J",
+          "end": 81,
+          "expanded_url": "https://x.com/shio_vinyl/status/2063885308710756596/video/1",
+          "media_key": "13_2063884894162616320",
+          "start": 58,
+          "url": "https://t.co/khET27xB8J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063885308710756596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看来不是那么好搞定的…还是有很多问题，虽然claude进行了史料研究，但是从史料落位到地理信息的编译器还是得优化😿 https://t.co/khET27xB8J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59000,
+        "height": 2160,
+        "media_key": "13_2063884894162616320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063884894162616320/img/mi1SOeCV9gtB6ZQQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063884894162616320/vid/avc1/1620x1080/z2c-rKYVTwUt1CAu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063884894162616320/pl/oq5j0oUp8WMZZ0R1.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063884894162616320/vid/avc1/404x270/jRaAHf1J43F4pAgh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063884894162616320/vid/avc1/1080x720/w9hJn-Q1GrIWCka9.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063884894162616320/vid/avc1/3240x2160/QIQIexE0M30mAmpd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063884894162616320/vid/avc1/540x360/iqkWdC0KP45ujWTg.mp4"
+          }
+        ],
+        "width": 3240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063884894162616320"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2063885118658544091",
+        "created_at": "2026-06-08T07:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:25:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063885118658544091",
+          "2063885308710756596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cg54bBpoPt",
+              "end": 81,
+              "expanded_url": "https://x.com/shio_vinyl/status/2063885118658544091/video/1",
+              "media_key": "13_2063884894162616320",
+              "start": 58,
+              "url": "https://t.co/cg54bBpoPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063885118658544091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看来不是那么好搞定的…还是有很多问题，虽然claude进行了史料研究，但是从史料罗位到地理信息的编译器还是得优化😿 https://t.co/cg54bBpoPt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063884894162616320"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2063885308710756596",
+        "created_at": "2026-06-08T07:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:25:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063885118658544091",
+          "2063885308710756596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khET27xB8J",
+              "end": 81,
+              "expanded_url": "https://x.com/shio_vinyl/status/2063885308710756596/video/1",
+              "media_key": "13_2063884894162616320",
+              "start": 58,
+              "url": "https://t.co/khET27xB8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063885308710756596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看来不是那么好搞定的…还是有很多问题，虽然claude进行了史料研究，但是从史料落位到地理信息的编译器还是得优化😿 https://t.co/khET27xB8J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27912,
+          "following_count": 2245,
+          "like_count": 28650,
+          "listed_count": 21,
+          "media_count": 1901,
+          "tweet_count": 29630
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063158802942414848"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2063158809431060874",
+    "created_at": "2026-06-06T07:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063158809431060874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2fwlTCDk1K",
+          "end": 59,
+          "expanded_url": "https://x.com/shio_vinyl/status/2063158809431060874/photo/1",
+          "media_key": "3_2063158802942414848",
+          "start": 36,
+          "url": "https://t.co/2fwlTCDk1K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063158809431060874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "塞浦路斯的英属军事基地居然不算在塞浦路斯边界里面？我还是第一次知道👁️ https://t.co/2fwlTCDk1K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2063158802942414848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHQAAyaUAAVCoM.jpg",
+        "width": 1586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063158802942414848"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2063158809431060874",
+        "created_at": "2026-06-06T07:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063158809431060874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fwlTCDk1K",
+              "end": 59,
+              "expanded_url": "https://x.com/shio_vinyl/status/2063158809431060874/photo/1",
+              "media_key": "3_2063158802942414848",
+              "start": 36,
+              "url": "https://t.co/2fwlTCDk1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063158809431060874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塞浦路斯的英属军事基地居然不算在塞浦路斯边界里面？我还是第一次知道👁️ https://t.co/2fwlTCDk1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27896,
+          "following_count": 2243,
+          "like_count": 28637,
+          "listed_count": 20,
+          "media_count": 1888,
+          "tweet_count": 29602
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

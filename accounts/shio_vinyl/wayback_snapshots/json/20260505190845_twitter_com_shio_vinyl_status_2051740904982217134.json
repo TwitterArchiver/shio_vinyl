@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051740898430746624"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2051740904982217134",
+    "created_at": "2026-05-05T19:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051740904982217134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kC5gLWEHSK",
+          "end": 41,
+          "expanded_url": "https://x.com/shio_vinyl/status/2051740904982217134/photo/1",
+          "media_key": "3_2051740898430746624",
+          "start": 18,
+          "url": "https://t.co/kC5gLWEHSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051740904982217134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吧起码也比直接切断我会话好多了😿 https://t.co/kC5gLWEHSK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 208,
+        "media_key": "3_2051740898430746624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHk_ef4bAAAyzmh.jpg",
+        "width": 1522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051740898430746624"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2051740904982217134",
+        "created_at": "2026-05-05T19:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051740904982217134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kC5gLWEHSK",
+              "end": 41,
+              "expanded_url": "https://x.com/shio_vinyl/status/2051740904982217134/photo/1",
+              "media_key": "3_2051740898430746624",
+              "start": 18,
+              "url": "https://t.co/kC5gLWEHSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051740904982217134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧起码也比直接切断我会话好多了😿 https://t.co/kC5gLWEHSK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27834,
+          "following_count": 2239,
+          "like_count": 28680,
+          "listed_count": 20,
+          "media_count": 1876,
+          "tweet_count": 29534
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

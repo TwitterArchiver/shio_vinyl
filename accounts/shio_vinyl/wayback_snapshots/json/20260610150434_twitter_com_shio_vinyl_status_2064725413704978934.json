@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2064725413704978934",
+    "created_at": "2026-06-10T15:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064725413704978934"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064725413704978934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还是希望5.6快点出，fable性能再强这成本也不是一般人能用的😶‍🌫️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2064725413704978934",
+        "created_at": "2026-06-10T15:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064725413704978934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064725413704978934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是希望5.6快点出，fable性能再强这成本也不是一般人能用的😶‍🌫️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27940,
+          "following_count": 2244,
+          "like_count": 28563,
+          "listed_count": 21,
+          "media_count": 1908,
+          "tweet_count": 29642
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

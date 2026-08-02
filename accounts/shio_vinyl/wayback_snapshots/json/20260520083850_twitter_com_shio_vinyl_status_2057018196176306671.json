@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2057018196176306671",
+    "created_at": "2026-05-20T08:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T09:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057018196176306671"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057018196176306671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最受不了洋tankie的就是总从想象中的老中身上捕风捉影论证自己对全球政治体制的幼稚洞见\n最高法研究室一个信访回复到他们嘴里就成了“China introduces LGBT protections”。用欧美体制语境解读大陆体制还急着把中国性少数的现实处境改写成自己的反西方爽文，这何尝不是一种西方中心主义🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2057018196176306671",
+        "created_at": "2026-05-20T08:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057018196176306671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057018196176306671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最受不了洋tankie的就是总从想象中的老中身上捕风捉影论证自己对全球政治体制的幼稚洞见\n最高法研究室一个信访回复到他们嘴里就成了“China introduces LGBT protections”。用欧美体制语境解读大陆体制还急着把中国性少数的现实处境改写成自己的反西方爽文，这何尝不是一种西方中心主义🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27873,
+          "following_count": 2243,
+          "like_count": 28660,
+          "listed_count": 20,
+          "media_count": 1878,
+          "tweet_count": 29539
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

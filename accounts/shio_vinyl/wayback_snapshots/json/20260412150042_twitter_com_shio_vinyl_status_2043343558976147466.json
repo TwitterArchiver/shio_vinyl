@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2043343558976147466",
+    "created_at": "2026-04-12T15:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043343558976147466"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043343558976147466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这段时间边摸索vibecoding边学习的过程中发现自己还是很喜欢搞代码的，因为能够做点自己喜欢的感兴趣的东西吧（所以真的让我转行去那边的话我也不太乐意）\n大概自己喜欢设计也是差不多的理由😶‍🌫️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2043343558976147466",
+        "created_at": "2026-04-12T15:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043343558976147466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043343558976147466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这段时间边摸索vibecoding边学习的过程中发现自己还是很喜欢搞代码的，因为能够做点自己喜欢的感兴趣的东西吧（所以真的让我转行去那边的话我也不太乐意）\n大概自己喜欢设计也是差不多的理由😶‍🌫️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-淡推-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27142,
+          "following_count": 2239,
+          "like_count": 28991,
+          "listed_count": 20,
+          "media_count": 1865,
+          "tweet_count": 29504
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

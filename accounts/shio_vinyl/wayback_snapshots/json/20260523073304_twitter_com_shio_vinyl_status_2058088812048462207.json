@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2058088812048462207",
+    "created_at": "2026-05-23T07:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058088812048462207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dezeen/status/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/dezeen/status/2057846762296001015",
+          "start": 21,
+          "url": "https://t.co/KlHdThJePD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058088812048462207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057846762296001015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像是七八线城市哪个山寨旅游区的土逼审美😇 https://t.co/KlHdThJePD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2057846699498819584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7wq5XWUAAFCVQ.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1144,
+        "media_key": "3_2057846720352903168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7wsHDWYAAW6ii.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1176,
+        "media_key": "3_2057846741399916544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7wtVdWUAAfwxU.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2058088812048462207",
+        "created_at": "2026-05-23T07:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058088812048462207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dezeen/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/dezeen/status/2057846762296001015",
+              "start": 21,
+              "url": "https://t.co/KlHdThJePD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058088812048462207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057846762296001015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像是七八线城市哪个山寨旅游区的土逼审美😇 https://t.co/KlHdThJePD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057846699498819584",
+            "3_2057846720352903168",
+            "3_2057846741399916544"
+          ]
+        },
+        "author_id": "26012202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2057846762296001015",
+        "created_at": "2026-05-22T15:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057846762296001015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A monumental triumphal arch with a neoclassical structure devised by Harrison Design has been approved for Washington, DC, USA.",
+              "display_url": "dezeen.com/2026/05/22/arc…",
+              "end": 73,
+              "expanded_url": "https://www.dezeen.com/2026/05/22/arc-de-trump-design-approved-for-washington-dc-cfa/",
+              "images": [
+                {
+                  "height": 2364,
+                  "url": "https://pbs.twimg.com/news_img/2057846766771314688/87u-Sexh?format=jpg&name=orig",
+                  "width": 2364
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057846766771314688/87u-Sexh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "\"Arc de Trump\" design approved for Washington, DC",
+              "unwound_url": "https://www.dezeen.com/2026/05/22/arc-de-trump-design-approved-for-washington-dc-cfa/",
+              "url": "https://t.co/4vZ5dlfMcN"
+            },
+            {
+              "display_url": "pic.x.com/pUEun1MT5z",
+              "end": 97,
+              "expanded_url": "https://x.com/dezeen/status/2057846762296001015/photo/1",
+              "media_key": "3_2057846699498819584",
+              "start": 74,
+              "url": "https://t.co/pUEun1MT5z"
+            },
+            {
+              "display_url": "pic.x.com/pUEun1MT5z",
+              "end": 97,
+              "expanded_url": "https://x.com/dezeen/status/2057846762296001015/photo/1",
+              "media_key": "3_2057846720352903168",
+              "start": 74,
+              "url": "https://t.co/pUEun1MT5z"
+            },
+            {
+              "display_url": "pic.x.com/pUEun1MT5z",
+              "end": 97,
+              "expanded_url": "https://x.com/dezeen/status/2057846762296001015/photo/1",
+              "media_key": "3_2057846741399916544",
+              "start": 74,
+              "url": "https://t.co/pUEun1MT5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057846762296001015",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 22350,
+          "like_count": 157,
+          "quote_count": 11,
+          "reply_count": 9,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "\"Arc de Trump\" design approved for Washington DC:\nhttps://t.co/4vZ5dlfMcN https://t.co/pUEun1MT5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27884,
+          "following_count": 2244,
+          "like_count": 28661,
+          "listed_count": 20,
+          "media_count": 1878,
+          "tweet_count": 29548
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T14:38:43.000Z",
+        "description": "The world's most popular and influential architecture, interiors and design magazine.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dezeen.com",
+                "end": 23,
+                "expanded_url": "http://www.dezeen.com",
+                "start": 0,
+                "url": "https://t.co/LiX7xgmc2J"
+              }
+            ]
+          }
+        },
+        "id": "26012202",
+        "location": "London",
+        "name": "Dezeen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/801122329908707328/cVOgX_ER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991103,
+          "following_count": 13122,
+          "like_count": 2942,
+          "listed_count": 10104,
+          "media_count": 60304,
+          "tweet_count": 156774
+        },
+        "url": "https://t.co/LiX7xgmc2J",
+        "username": "dezeen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001240883690397702",
+        "3_2001240883698786306"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2001240894838858091",
+    "created_at": "2025-12-17T10:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T11:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001240894838858091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kE5WraTcSx",
+          "end": 82,
+          "expanded_url": "https://x.com/shio_vinyl/status/2001240894838858091/photo/1",
+          "media_key": "3_2001240883690397702",
+          "start": 59,
+          "url": "https://t.co/kE5WraTcSx"
+        },
+        {
+          "display_url": "pic.x.com/kE5WraTcSx",
+          "end": 82,
+          "expanded_url": "https://x.com/shio_vinyl/status/2001240894838858091/photo/1",
+          "media_key": "3_2001240883698786306",
+          "start": 59,
+          "url": "https://t.co/kE5WraTcSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001240894838858091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于中国网络女权的形成为什么不能忽略新自由主义主体对其施加的影响，为什么总是充满悖论和前后矛盾（实际上另类右翼都这样 https://t.co/kE5WraTcSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001240883690397702",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XV-w5a4AYSBiX.jpg",
+        "width": 1281
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2001240883698786306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XV-w7a4AI4MEH.jpg",
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001240883690397702",
+            "3_2001240883698786306"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2001240894838858091",
+        "created_at": "2025-12-17T10:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001240894838858091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kE5WraTcSx",
+              "end": 82,
+              "expanded_url": "https://x.com/shio_vinyl/status/2001240894838858091/photo/1",
+              "media_key": "3_2001240883690397702",
+              "start": 59,
+              "url": "https://t.co/kE5WraTcSx"
+            },
+            {
+              "display_url": "pic.x.com/kE5WraTcSx",
+              "end": 82,
+              "expanded_url": "https://x.com/shio_vinyl/status/2001240894838858091/photo/1",
+              "media_key": "3_2001240883698786306",
+              "start": 59,
+              "url": "https://t.co/kE5WraTcSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001240894838858091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于中国网络女权的形成为什么不能忽略新自由主义主体对其施加的影响，为什么总是充满悖论和前后矛盾（实际上另类右翼都这样 https://t.co/kE5WraTcSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27271,
+          "following_count": 2251,
+          "like_count": 29126,
+          "listed_count": 19,
+          "media_count": 1855,
+          "tweet_count": 29447
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

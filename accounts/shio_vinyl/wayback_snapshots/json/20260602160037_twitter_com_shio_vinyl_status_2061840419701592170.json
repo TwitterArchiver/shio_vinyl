@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2061840419701592170",
+    "created_at": "2026-06-02T16:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061840419701592170"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061840419701592170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终末地现在一堆广告和机器人号，什么时候能管管…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2061840419701592170",
+        "created_at": "2026-06-02T16:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061840419701592170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061840419701592170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终末地现在一堆广告和机器人号，什么时候能管管…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27886,
+          "following_count": 2244,
+          "like_count": 28628,
+          "listed_count": 20,
+          "media_count": 1885,
+          "tweet_count": 29590
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

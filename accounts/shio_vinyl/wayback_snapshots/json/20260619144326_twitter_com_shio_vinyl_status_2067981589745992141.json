@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2067949202530001002",
+    "created_at": "2026-06-19T14:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067981589745992141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067981589745992141",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067980028093034567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 看起来好像也差穷不多？这个边界太抓狂了怎么画啊🫠（以及你这个图有来源吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_2067980020950118400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLw31dWMAA7hty.jpg",
+        "width": 330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2067949202530001002",
+        "created_at": "2026-06-19T14:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067981589745992141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067981589745992141",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067980028093034567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 看起来好像也差穷不多？这个边界太抓狂了怎么画啊🫠（以及你这个图有来源吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067980020950118400"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "conversation_id": "2067949202530001002",
+        "created_at": "2026-06-19T14:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067980028093034567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aMxS8lzRbI",
+              "end": 54,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2067980028093034567/photo/1",
+              "media_key": "3_2067980020950118400",
+              "start": 31,
+              "url": "https://t.co/aMxS8lzRbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067980028093034567",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067979029282709753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl Liège下面没有那个向右的突起好像 https://t.co/aMxS8lzRbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27969,
+          "following_count": 2243,
+          "like_count": 23686,
+          "listed_count": 21,
+          "media_count": 1925,
+          "tweet_count": 29679
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "亟待潜入雨中去往大河以北，于西班牙的余晖下跟随博苏伯爵\n🤍@LibDems|2nd @AbsolutelyWP|3rd @KUKMonarchy8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "LibDems"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "AbsolutelyWP"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "KUKMonarchy8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2066953660291219488/BuXO6njq65",
+                "start": 0,
+                "url": "https://t.co/w2ff5ToOvL"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "🇹🇼Wellington † Pixel🪩",
+        "pinned_tweet_id": "2066206560251212138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067501680761942016/ppUB_nuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 3533,
+          "like_count": 21951,
+          "listed_count": 3,
+          "media_count": 429,
+          "tweet_count": 4561
+        },
+        "url": "https://t.co/w2ff5ToOvL",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

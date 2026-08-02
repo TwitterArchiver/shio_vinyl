@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063184944487395328"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2063184950611112402",
+    "created_at": "2026-06-06T09:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063184950611112402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WjT3eD4vYV",
+          "end": 66,
+          "expanded_url": "https://x.com/shio_vinyl/status/2063184950611112402/photo/1",
+          "media_key": "3_2063184944487395328",
+          "start": 43,
+          "url": "https://t.co/WjT3eD4vYV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063184950611112402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉优化迭代一下或许真的能取代人工历史地图绘制了？gpt甚至能看懂历史的纸质地图… https://t.co/WjT3eD4vYV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2063184944487395328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHnxpoa8AATX41.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063184944487395328"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2063184950611112402",
+        "created_at": "2026-06-06T09:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063184950611112402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WjT3eD4vYV",
+              "end": 66,
+              "expanded_url": "https://x.com/shio_vinyl/status/2063184950611112402/photo/1",
+              "media_key": "3_2063184944487395328",
+              "start": 43,
+              "url": "https://t.co/WjT3eD4vYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063184950611112402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉优化迭代一下或许真的能取代人工历史地图绘制了？gpt甚至能看懂历史的纸质地图… https://t.co/WjT3eD4vYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27896,
+          "following_count": 2243,
+          "like_count": 28638,
+          "listed_count": 20,
+          "media_count": 1891,
+          "tweet_count": 29602
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

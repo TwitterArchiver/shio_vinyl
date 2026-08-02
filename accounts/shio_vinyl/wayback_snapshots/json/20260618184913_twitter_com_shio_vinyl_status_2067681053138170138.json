@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067680986520055808"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2067681053138170138",
+    "created_at": "2026-06-18T18:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067681053138170138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L8gdJRQ8uo",
+          "end": 42,
+          "expanded_url": "https://x.com/shio_vinyl/status/2067681053138170138/video/1",
+          "media_key": "13_2067680986520055808",
+          "start": 19,
+          "url": "https://t.co/L8gdJRQ8uo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067681053138170138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉瓦片问题还是没解决…拓扑是错误的啊 https://t.co/L8gdJRQ8uo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12000,
+        "height": 1400,
+        "media_key": "13_2067680986520055808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067680986520055808/img/cAFGoyC1WrJEs8uA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067680986520055808/vid/avc1/2200x1400/6uWgyZ5VzeqMLk2G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067680986520055808/vid/avc1/1130x720/YlhZCAhRWUsavgc_.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067680986520055808/vid/avc1/424x270/J-ZaCDVx1EzV_PsH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067680986520055808/pl/brDonv7kGF3rOlsG.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067680986520055808/vid/avc1/564x360/lDF5FgzfOYpZTCh2.mp4"
+          }
+        ],
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067680986520055808"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2067681053138170138",
+        "created_at": "2026-06-18T18:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067681053138170138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8gdJRQ8uo",
+              "end": 42,
+              "expanded_url": "https://x.com/shio_vinyl/status/2067681053138170138/video/1",
+              "media_key": "13_2067680986520055808",
+              "start": 19,
+              "url": "https://t.co/L8gdJRQ8uo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067681053138170138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉瓦片问题还是没解决…拓扑是错误的啊 https://t.co/L8gdJRQ8uo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27974,
+          "following_count": 2241,
+          "like_count": 23677,
+          "listed_count": 21,
+          "media_count": 1917,
+          "tweet_count": 29661
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

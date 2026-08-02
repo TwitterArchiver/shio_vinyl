@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2024327928117678131",
+    "created_at": "2026-02-19T03:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T04:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024330214726390252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1371296214692499457",
+          "start": 0,
+          "username": "MisakaNo10777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024330214726390252",
+    "in_reply_to_user_id": "1371296214692499457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024327928117678131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaNo10777 权力关系是交织的，我觉得现代人很难跳出现代主体这个前提来理解公共议题这才是问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1505,
+        "media_key": "3_2024327925231923200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfbhcxaMAAtIJz.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2024327928117678131",
+        "created_at": "2026-02-19T03:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024330214726390252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1371296214692499457",
+              "start": 0,
+              "username": "MisakaNo10777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024330214726390252",
+        "in_reply_to_user_id": "1371296214692499457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024327928117678131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaNo10777 权力关系是交织的，我觉得现代人很难跳出现代主体这个前提来理解公共议题这才是问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024327925231923200"
+          ]
+        },
+        "author_id": "1371296214692499457",
+        "conversation_id": "2024327928117678131",
+        "created_at": "2026-02-19T03:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024327928117678131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BCZrzLNE21",
+              "end": 37,
+              "expanded_url": "https://x.com/MisakaNo10777/status/2024327928117678131/photo/1",
+              "media_key": "3_2024327925231923200",
+              "start": 14,
+              "url": "https://t.co/BCZrzLNE21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024327928117678131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也这就是很多内斗的来源吧。 https://t.co/BCZrzLNE21"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27487,
+          "following_count": 2246,
+          "like_count": 29053,
+          "listed_count": 20,
+          "media_count": 1861,
+          "tweet_count": 29471
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T03:04:44.000Z",
+        "description": "I am a college computer science student & developer & Misaka No.10777 .",
+        "id": "1371296214692499457",
+        "location": "别人脚踩答题卡就考上的一所二本",
+        "name": "Misaka10777",
+        "pinned_tweet_id": "1685137590465495040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722776439832055808/fuQD5NGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 3521,
+          "like_count": 443365,
+          "listed_count": 19,
+          "media_count": 2953,
+          "tweet_count": 21973
+        },
+        "username": "MisakaNo10777",
+        "verified": false
+      }
+    ]
+  }
+}

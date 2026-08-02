@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2042895905075138985",
+    "created_at": "2026-04-11T09:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042895905075138985"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042895905075138985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有种感觉不知道是不是真的，就是感觉老中zng恋足癖（虽然男性的恋物癖结构不分国界地很普遍）相对于其他国家的尤为严重？我之前刷到过那种几乎只创作二游同人图的男画师基本都是很强调这一点，不知道能怎么分析这个现象🫠\nps.可能受这种氛围影响，我发现很多老中cd也是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2042895905075138985",
+        "created_at": "2026-04-11T09:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042895905075138985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042895905075138985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有种感觉不知道是不是真的，就是感觉老中zng恋足癖（虽然男性的恋物癖结构不分国界地很普遍）相对于其他国家的尤为严重？我之前刷到过那种几乎只创作二游同人图的男画师基本都是很强调这一点，不知道能怎么分析这个现象🫠\nps.可能受这种氛围影响，我发现很多老中cd也是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27231,
+          "following_count": 2239,
+          "like_count": 28988,
+          "listed_count": 20,
+          "media_count": 1865,
+          "tweet_count": 29500
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2061660848658231399",
+    "created_at": "2026-06-02T04:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T05:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061660848658231399"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061660848658231399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有16个小时重置周额度claude居然重置了，a/难得的拟人时刻😿\n我要开fast mode死命蹬🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2061660848658231399",
+        "created_at": "2026-06-02T04:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061660848658231399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061660848658231399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有16个小时重置周额度claude居然重置了，a/难得的拟人时刻😿\n我要开fast mode死命蹬🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27885,
+          "following_count": 2244,
+          "like_count": 28626,
+          "listed_count": 20,
+          "media_count": 1883,
+          "tweet_count": 29585
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

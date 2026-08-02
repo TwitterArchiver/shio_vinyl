@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063956192381267968"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2063956202061746502",
+    "created_at": "2026-06-08T12:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063956202061746502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JhRU7wq9pn",
+          "end": 118,
+          "expanded_url": "https://x.com/shio_vinyl/status/2063956202061746502/photo/1",
+          "media_key": "3_2063956192381267968",
+          "start": 95,
+          "url": "https://t.co/JhRU7wq9pn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063956202061746502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种地方确实很难处理，历史上 Ayla(1116 年鲍德温一世夺取)是一个孤立的要塞据点，这种基本上准确来说只能描述成一个点和一条路，所以严格意义上来说即使是网络上流传的图也不是很准确…🫠 https://t.co/JhRU7wq9pn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1187,
+        "media_key": "3_2063956192381267968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSlOL7acAABxzf.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063956192381267968"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2063956202061746502",
+        "created_at": "2026-06-08T12:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063956202061746502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhRU7wq9pn",
+              "end": 118,
+              "expanded_url": "https://x.com/shio_vinyl/status/2063956202061746502/photo/1",
+              "media_key": "3_2063956192381267968",
+              "start": 95,
+              "url": "https://t.co/JhRU7wq9pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063956202061746502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种地方确实很难处理，历史上 Ayla(1116 年鲍德温一世夺取)是一个孤立的要塞据点，这种基本上准确来说只能描述成一个点和一条路，所以严格意义上来说即使是网络上流传的图也不是很准确…🫠 https://t.co/JhRU7wq9pn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27918,
+          "following_count": 2245,
+          "like_count": 28651,
+          "listed_count": 21,
+          "media_count": 1904,
+          "tweet_count": 29634
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

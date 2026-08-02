@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      }
+    ],
+    "conversation_id": "2075520074199564478",
+    "created_at": "2026-07-10T09:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075520117023416597"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075520117023416597",
+    "in_reply_to_user_id": "1359161118300766219",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075520074199564478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Any serious assessment of contemporary China depends on recognizing this institutional continuity. Marketization after Mao transformed the economy, but it did not fundamentally alter the Leninist structure of the state."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2075520074199564478",
+        "created_at": "2026-07-10T09:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075520117023416597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075520117023416597",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075520074199564478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Any serious assessment of contemporary China depends on recognizing this institutional continuity. Marketization after Mao transformed the economy, but it did not fundamentally alter the Leninist structure of the state."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2075520074199564478",
+        "created_at": "2026-07-10T09:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075520074199564478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075520074199564478",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The authoritarian character of Leninist states has consistently outweighed their socialist substance. Yet both the left and the right often ignore this, selectively using these regimes to validate whatever political argument they already wanted to make."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28107,
+          "following_count": 2241,
+          "like_count": 23448,
+          "listed_count": 21,
+          "media_count": 1943,
+          "tweet_count": 29724
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

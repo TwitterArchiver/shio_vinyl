@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2063545981707391364",
+    "created_at": "2026-06-07T11:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063591110463893802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499250507331813381",
+          "start": 0,
+          "username": "this_is_no_id"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063591110463893802",
+    "in_reply_to_user_id": "1499250507331813381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063590573538513170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@this_is_no_id 这个只是简单用现代行政边界处理了一下数据"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2063545981707391364",
+        "created_at": "2026-06-07T11:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063591110463893802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499250507331813381",
+              "start": 0,
+              "username": "this_is_no_id"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063591110463893802",
+        "in_reply_to_user_id": "1499250507331813381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063590573538513170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@this_is_no_id 这个只是简单用现代行政边界处理了一下数据"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499250507331813381",
+        "conversation_id": "2063545981707391364",
+        "created_at": "2026-06-07T11:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063590573538513170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063590573538513170",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063545981707391364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl ai似乎理解不了古时候西弗吉尼亚在弗吉尼亚州里面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27902,
+          "following_count": 2244,
+          "like_count": 28648,
+          "listed_count": 21,
+          "media_count": 1896,
+          "tweet_count": 29622
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T05:09:21.000Z",
+        "description": "Va, pensiero, sull'ali dorate",
+        "id": "1499250507331813381",
+        "location": "安托西修之地狱/ l'enfer avec 安托西修",
+        "name": "姓名不能为空",
+        "pinned_tweet_id": "1594499237076664320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573373299584892928/FrivAb6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 69,
+          "like_count": 20033,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 9701
+        },
+        "username": "this_is_no_id",
+        "verified": false
+      }
+    ]
+  }
+}

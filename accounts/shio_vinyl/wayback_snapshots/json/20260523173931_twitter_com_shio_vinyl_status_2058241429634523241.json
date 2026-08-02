@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058241421820502016"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2058241429634523241",
+    "created_at": "2026-05-23T17:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058241429634523241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FpawHxb7sp",
+          "end": 142,
+          "expanded_url": "https://x.com/shio_vinyl/status/2058241429634523241/photo/1",
+          "media_key": "3_2058241421820502016",
+          "start": 119,
+          "url": "https://t.co/FpawHxb7sp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058241429634523241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对很多老中而言，艺术就是胶囊的糖衣，一定需要有里面的“药”才能证明其价值。\n很可能是应试教育植入了一种乏味的成“X象征Y”的美学鉴赏观念吧，这或许也是老中美育教育匮乏的一个重点。\n这或许也说明了为什么绝大多数老中喜欢用屁股思考问题👁️💧 https://t.co/FpawHxb7sp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_2058241421820502016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBXqwmbIAAwPzC.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058241421820502016"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2058241429634523241",
+        "created_at": "2026-05-23T17:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058241429634523241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpawHxb7sp",
+              "end": 142,
+              "expanded_url": "https://x.com/shio_vinyl/status/2058241429634523241/photo/1",
+              "media_key": "3_2058241421820502016",
+              "start": 119,
+              "url": "https://t.co/FpawHxb7sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058241429634523241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对很多老中而言，艺术就是胶囊的糖衣，一定需要有里面的“药”才能证明其价值。\n很可能是应试教育植入了一种乏味的成“X象征Y”的美学鉴赏观念吧，这或许也是老中美育教育匮乏的一个重点。\n这或许也说明了为什么绝大多数老中喜欢用屁股思考问题👁️💧 https://t.co/FpawHxb7sp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27896,
+          "following_count": 2244,
+          "like_count": 28661,
+          "listed_count": 20,
+          "media_count": 1879,
+          "tweet_count": 29550
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2076317632408797573",
+    "created_at": "2026-07-12T14:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076317632408797573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2076091484462367176",
+          "start": 48,
+          "url": "https://t.co/mhhVtAAZik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076317632408797573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076091484462367176",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "干后厨压力这么大，精神不好的被师傅骂着骂着就玉玉紫砂了…推荐干点别的什么不好干这个…何意味🐱💧 https://t.co/mhhVtAAZik"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2076317632408797573",
+        "created_at": "2026-07-12T14:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076317632408797573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2076091484462367176",
+              "start": 48,
+              "url": "https://t.co/mhhVtAAZik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076317632408797573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076091484462367176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "干后厨压力这么大，精神不好的被师傅骂着骂着就玉玉紫砂了…推荐干点别的什么不好干这个…何意味🐱💧 https://t.co/mhhVtAAZik"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2076091484462367176",
+        "created_at": "2026-07-11T23:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076091484462367176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2076084057923002735",
+              "start": 136,
+              "url": "https://t.co/U0oOgic9lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076091484462367176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7496,
+          "like_count": 60,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076084057923002735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想学厨，开一所性少数友好的职高厨师学校，让更多没办法上大学、被学术和学历体系排斥的同类能有谋生的渠道。因为餐饮算是整个社会最重要的行业之一，食物的采购、运输、保存和销售牵动着社会的所有基础设施（耕种、屠宰、物流、加工、服务），也是往往是国家进行民族主义动员的核心养料。 https://t.co/U0oOgic9lm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28105,
+          "following_count": 2242,
+          "like_count": 23448,
+          "listed_count": 21,
+          "media_count": 1943,
+          "tweet_count": 29728
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazehuZE\n📮 https://t.co/DV9hgFqCue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazehuZE"
+              },
+              {
+                "display_url": "ngl.link/amberjellyfish2",
+                "end": 71,
+                "expanded_url": "https://ngl.link/amberjellyfish2",
+                "start": 48,
+                "url": "https://t.co/DV9hgFqCue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2075976199038189945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3011,
+          "following_count": 511,
+          "like_count": 1347,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

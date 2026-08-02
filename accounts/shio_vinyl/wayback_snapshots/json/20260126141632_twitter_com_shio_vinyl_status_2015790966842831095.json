@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015790957124370432"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015790966842831095",
+    "created_at": "2026-01-26T14:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015790966842831095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kqhd7Cm69W",
+          "end": 32,
+          "expanded_url": "https://x.com/shio_vinyl/status/2015790966842831095/photo/1",
+          "media_key": "3_2015790957124370432",
+          "start": 9,
+          "url": "https://t.co/kqhd7Cm69W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015790966842831095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "差点一下子没绷住 https://t.co/kqhd7Cm69W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2015790957124370432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mHMgTXwAA-kP0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015790957124370432"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015790966842831095",
+        "created_at": "2026-01-26T14:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015790966842831095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqhd7Cm69W",
+              "end": 32,
+              "expanded_url": "https://x.com/shio_vinyl/status/2015790966842831095/photo/1",
+              "media_key": "3_2015790957124370432",
+              "start": 9,
+              "url": "https://t.co/kqhd7Cm69W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015790966842831095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差点一下子没绷住 https://t.co/kqhd7Cm69W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27419,
+          "following_count": 2246,
+          "like_count": 29088,
+          "listed_count": 20,
+          "media_count": 1858,
+          "tweet_count": 29452
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

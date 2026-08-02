@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049169985256505344",
+        "3_2049169985571086336"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2049170002943582244",
+    "created_at": "2026-04-28T16:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049170002943582244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ZHlGtoWFN",
+          "end": 132,
+          "expanded_url": "https://x.com/shio_vinyl/status/2049170002943582244/photo/1",
+          "media_key": "3_2049169985256505344",
+          "start": 109,
+          "url": "https://t.co/5ZHlGtoWFN"
+        },
+        {
+          "display_url": "pic.x.com/5ZHlGtoWFN",
+          "end": 132,
+          "expanded_url": "https://x.com/shio_vinyl/status/2049170002943582244/photo/1",
+          "media_key": "3_2049169985571086336",
+          "start": 109,
+          "url": "https://t.co/5ZHlGtoWFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049170002943582244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现还是这种白色背景看起来没那么像ai…扩散模型生成的图片总是有种诡异的均匀感，那种人类画师的张力感（准确来说会在某些方面“不太平衡”从而显示出个人特色ai）除了通过针对性复刻某种风格以外很难再造出某种新的风格了🙃 https://t.co/5ZHlGtoWFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2049169985256505344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAdPp-bQAAsGJ_.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2049169985571086336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAdPrJbYAAFuvu.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049169985256505344",
+            "3_2049169985571086336"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2049170002943582244",
+        "created_at": "2026-04-28T16:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049170002943582244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ZHlGtoWFN",
+              "end": 132,
+              "expanded_url": "https://x.com/shio_vinyl/status/2049170002943582244/photo/1",
+              "media_key": "3_2049169985256505344",
+              "start": 109,
+              "url": "https://t.co/5ZHlGtoWFN"
+            },
+            {
+              "display_url": "pic.x.com/5ZHlGtoWFN",
+              "end": 132,
+              "expanded_url": "https://x.com/shio_vinyl/status/2049170002943582244/photo/1",
+              "media_key": "3_2049169985571086336",
+              "start": 109,
+              "url": "https://t.co/5ZHlGtoWFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049170002943582244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现还是这种白色背景看起来没那么像ai…扩散模型生成的图片总是有种诡异的均匀感，那种人类画师的张力感（准确来说会在某些方面“不太平衡”从而显示出个人特色ai）除了通过针对性复刻某种风格以外很难再造出某种新的风格了🙃 https://t.co/5ZHlGtoWFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27790,
+          "following_count": 2240,
+          "like_count": 28881,
+          "listed_count": 20,
+          "media_count": 1875,
+          "tweet_count": 29529
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

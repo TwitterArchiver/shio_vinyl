@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2075973250157555861",
+    "created_at": "2026-07-11T15:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075973250157555861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cj3214567667/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/cj3214567667/status/2075139939403256271",
+          "start": 13,
+          "url": "https://t.co/dVeZXX2hk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075973250157555861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075139939403256271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这时候怎么不说布拉迪🐱💧 https://t.co/dVeZXX2hk4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2044,
+        "media_key": "3_2075139936022593536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxgxvnagAAnz0x.jpg",
+        "width": 1076
+      },
+      {
+        "height": 2052,
+        "media_key": "3_2075139936395948032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxgxxAbcAAV-bB.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2075973250157555861",
+        "created_at": "2026-07-11T15:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075973250157555861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cj3214567667/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/cj3214567667/status/2075139939403256271",
+              "start": 13,
+              "url": "https://t.co/dVeZXX2hk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075973250157555861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075139939403256271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这时候怎么不说布拉迪🐱💧 https://t.co/dVeZXX2hk4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075139936022593536",
+            "3_2075139936395948032"
+          ]
+        },
+        "author_id": "1654774887251329024",
+        "conversation_id": "2075139939403256271",
+        "created_at": "2026-07-09T08:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075139939403256271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oPpRvJZtB",
+              "end": 54,
+              "expanded_url": "https://x.com/cj3214567667/status/2075139939403256271/photo/1",
+              "media_key": "3_2075139936022593536",
+              "start": 31,
+              "url": "https://t.co/9oPpRvJZtB"
+            },
+            {
+              "display_url": "pic.x.com/9oPpRvJZtB",
+              "end": 54,
+              "expanded_url": "https://x.com/cj3214567667/status/2075139939403256271/photo/1",
+              "media_key": "3_2075139936395948032",
+              "start": 31,
+              "url": "https://t.co/9oPpRvJZtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075139939403256271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 495,
+          "impression_count": 1100131,
+          "like_count": 2234,
+          "quote_count": 38,
+          "reply_count": 527,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "纯男性社区“大蓝树”\n\n对标小红书\n\n感觉活不过1个月😂😂😂 https://t.co/9oPpRvJZtB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28105,
+          "following_count": 2242,
+          "like_count": 23447,
+          "listed_count": 21,
+          "media_count": 1943,
+          "tweet_count": 29725
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T09:07:45.000Z",
+        "description": "❤️分享各种好用的效率工具和AI  \n💼互联网运营项目负责人\n📄不定时分享|运营案例 \n✨深度思考，用大脑撬动世界\n↓各类学习资料，免费分享↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qcnifjtytj3j.feishu.cn/wiki/LrV0wFFHP…",
+                "end": 23,
+                "expanded_url": "https://qcnifjtytj3j.feishu.cn/wiki/LrV0wFFHPiHk7wkSjGHc6qK4n1q?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/Xph2l3ZQUq"
+              }
+            ]
+          }
+        },
+        "id": "1654774887251329024",
+        "name": "白骏知识分享",
+        "pinned_tweet_id": "2075139939403256271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808032405116407811/4iIJMgZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129481,
+          "following_count": 945,
+          "like_count": 2335,
+          "listed_count": 575,
+          "media_count": 6277,
+          "tweet_count": 9433
+        },
+        "url": "https://t.co/Xph2l3ZQUq",
+        "username": "cj3214567667",
+        "verified": true
+      }
+    ]
+  }
+}

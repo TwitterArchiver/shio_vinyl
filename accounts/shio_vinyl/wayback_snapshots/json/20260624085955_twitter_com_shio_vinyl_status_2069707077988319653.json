@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2069704383173189945",
+    "created_at": "2026-06-24T08:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069707077988319653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "825350910335291392",
+          "start": 0,
+          "username": "Hatsuyuki512k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069707077988319653",
+    "in_reply_to_user_id": "825350910335291392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069706754737205583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hatsuyuki512k 我觉得月经纯粹就是一种生理周期现象，原推偷换概念实在太下头了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2069704383173189945",
+        "created_at": "2026-06-24T08:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069707077988319653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "825350910335291392",
+              "start": 0,
+              "username": "Hatsuyuki512k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069707077988319653",
+        "in_reply_to_user_id": "825350910335291392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069706754737205583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatsuyuki512k 我觉得月经纯粹就是一种生理周期现象，原推偷换概念实在太下头了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "825350910335291392",
+        "conversation_id": "2069704383173189945",
+        "created_at": "2026-06-24T08:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069706754737205583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069706754737205583",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069704383173189945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 其实只要用小剂量激素让子宫以为在怀孕就可以阻断月经了。。。避孕药也是类似原理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28016,
+          "following_count": 2244,
+          "like_count": 23694,
+          "listed_count": 21,
+          "media_count": 1931,
+          "tweet_count": 29699
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-28T14:32:46.000Z",
+        "description": "waaaaaaaaa",
+        "id": "825350910335291392",
+        "name": "name cannot be blank",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000591328736874500/15c3AZjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 3247,
+          "like_count": 47304,
+          "listed_count": 3,
+          "media_count": 760,
+          "tweet_count": 11850
+        },
+        "url": "",
+        "username": "Hatsuyuki512k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064588722662969344"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2064588728950296754",
+    "created_at": "2026-06-10T06:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064588728950296754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CDC5JQC2C9",
+          "end": 72,
+          "expanded_url": "https://x.com/shio_vinyl/status/2064588728950296754/photo/1",
+          "media_key": "3_2064588722662969344",
+          "start": 49,
+          "url": "https://t.co/CDC5JQC2C9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064588728950296754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "yysy，llm确实带来了很多以前很难想象的东西，比如说一些老的理论可以被重新翻出来用了😶‍🌫️ https://t.co/CDC5JQC2C9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2064588722662969344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbkgS2akAAcDcO.jpg",
+        "width": 1614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064588722662969344"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2064588728950296754",
+        "created_at": "2026-06-10T06:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064588728950296754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDC5JQC2C9",
+              "end": 72,
+              "expanded_url": "https://x.com/shio_vinyl/status/2064588728950296754/photo/1",
+              "media_key": "3_2064588722662969344",
+              "start": 49,
+              "url": "https://t.co/CDC5JQC2C9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064588728950296754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yysy，llm确实带来了很多以前很难想象的东西，比如说一些老的理论可以被重新翻出来用了😶‍🌫️ https://t.co/CDC5JQC2C9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27927,
+          "following_count": 2244,
+          "like_count": 28575,
+          "listed_count": 21,
+          "media_count": 1908,
+          "tweet_count": 29641
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

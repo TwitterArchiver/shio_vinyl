@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059488134409425204",
+    "created_at": "2026-05-27T04:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059488134409425204"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059488134409425204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "极端的说，除非你们认为杀害他人作为性欲欲望是一种“应该被正常化”的欲望，那我无话可说…“思想无罪”和伦理评价根本就不是一回事，怎么总是有人不懂？“对啊我只是想想但又没动手，所以大家不能贬低我单纯的欲望”这种观点何意味？\nltp在公共伦理评价上就不能够被正常化，这里根本就不存在法律意义上的行为和心理的讨论，法律不谴责你不代表伦理就不应该谴责你，这难道不是理所当然的事情吗🙃"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "极端的说，除非你们认为杀害他人作为性欲欲望是一种“应该被正常化”的欲望，那我无话可说…“思想无罪”和伦理评价根本就不是一回事，怎么总是有人不懂？“对啊我只是想想但又没动手，所以大家不能贬低我单纯的欲望”这种观点何意味？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059488134409425204",
+        "created_at": "2026-05-27T04:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059488134409425204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059488134409425204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "极端的说，除非你们认为杀害他人作为性欲欲望是一种“应该被正常化”的欲望，那我无话可说…“思想无罪”和伦理评价根本就不是一回事，怎么总是有人不懂？“对啊我只是想想但又没动手，所以大家不能贬低我单纯的欲望”这种观点何意味？\nltp在公共伦理评价上就不能够被正常化，这里根本就不存在法律意义上的行为和心理的讨论，法律不谴责你不代表伦理就不应该谴责你，这难道不是理所当然的事情吗🙃"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "极端的说，除非你们认为杀害他人作为性欲欲望是一种“应该被正常化”的欲望，那我无话可说…“思想无罪”和伦理评价根本就不是一回事，怎么总是有人不懂？“对啊我只是想想但又没动手，所以大家不能贬低我单纯的欲望”这种观点何意味？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27906,
+          "following_count": 2245,
+          "like_count": 28639,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29557
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

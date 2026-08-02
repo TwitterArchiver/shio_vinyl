@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2020183038668505457",
+    "created_at": "2026-03-29T08:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038173567708467373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806942240318816256",
+          "start": 0,
+          "username": "hode1018856"
+        },
+        {
+          "end": 25,
+          "id": "1468145568287694860",
+          "start": 13,
+          "username": "kairotic_sy"
+        }
+      ],
+      "urls": [
+        {
+          "description": "VMISS(Virtual Machine Innovative Solutions), Offers High Performance Cloud Server, Hosting and Compute Services to the world via our locations across the globe.",
+          "display_url": "app.vmiss.com",
+          "end": 49,
+          "expanded_url": "https://app.vmiss.com",
+          "start": 26,
+          "status": 200,
+          "title": "VMISS - High Performance Cloud Server and Compute Services.",
+          "unwound_url": "https://app.vmiss.com",
+          "url": "https://t.co/zQFmtERg5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038173567708467373",
+    "in_reply_to_user_id": "1806942240318816256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038143476198686876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hode1018856 @kairotic_sy https://t.co/zQFmtERg5W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2020183038668505457",
+        "created_at": "2026-03-29T08:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038173567708467373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806942240318816256",
+              "start": 0,
+              "username": "hode1018856"
+            },
+            {
+              "end": 25,
+              "id": "1468145568287694860",
+              "start": 13,
+              "username": "kairotic_sy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "VMISS(Virtual Machine Innovative Solutions), Offers High Performance Cloud Server, Hosting and Compute Services to the world via our locations across the globe.",
+              "display_url": "app.vmiss.com",
+              "end": 49,
+              "expanded_url": "https://app.vmiss.com",
+              "start": 26,
+              "status": 200,
+              "title": "VMISS - High Performance Cloud Server and Compute Services.",
+              "unwound_url": "https://app.vmiss.com",
+              "url": "https://t.co/zQFmtERg5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038173567708467373",
+        "in_reply_to_user_id": "1806942240318816256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038143476198686876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hode1018856 @kairotic_sy https://t.co/zQFmtERg5W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806942240318816256",
+        "conversation_id": "2020183038668505457",
+        "created_at": "2026-03-29T06:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038143476198686876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            },
+            {
+              "end": 24,
+              "id": "1468145568287694860",
+              "start": 12,
+              "username": "kairotic_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038143476198686876",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020720828569002236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl @kairotic_sy 宝宝，能不能问问链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27544,
+          "following_count": 2238,
+          "like_count": 29001,
+          "listed_count": 20,
+          "media_count": 1863,
+          "tweet_count": 29491
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T06:46:24.000Z",
+        "description": "",
+        "id": "1806942240318816256",
+        "name": "H千",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028857859631644672/ao1yFz-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 359,
+          "like_count": 2807,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "username": "hode1018856",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T09:09:28.000Z",
+        "description": "我迟早会赚到大的，然后呼吸自由的空气，买两杯豆浆，喝一杯倒一杯",
+        "id": "1468145568287694860",
+        "name": "kairos.seeyeal",
+        "pinned_tweet_id": "1996559900604846571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992832373701095424/LAoOtSrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 171,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 612
+        },
+        "username": "kairotic_sy",
+        "verified": true
+      }
+    ]
+  }
+}

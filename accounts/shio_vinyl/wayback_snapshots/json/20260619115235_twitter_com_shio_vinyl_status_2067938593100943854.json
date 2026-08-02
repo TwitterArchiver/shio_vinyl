@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067938581780570112"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2067938593100943854",
+    "created_at": "2026-06-19T11:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067938593100943854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XY94WwwJc1",
+          "end": 45,
+          "expanded_url": "https://x.com/shio_vinyl/status/2067938593100943854/photo/1",
+          "media_key": "3_2067938581780570112",
+          "start": 22,
+          "url": "https://t.co/XY94WwwJc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067938593100943854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "试着把自己几个月前做的神罗边界再配准一下😿 https://t.co/XY94WwwJc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2067938581780570112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLLLwhbIAAhzI_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067938581780570112"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2067938593100943854",
+        "created_at": "2026-06-19T11:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067938593100943854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY94WwwJc1",
+              "end": 45,
+              "expanded_url": "https://x.com/shio_vinyl/status/2067938593100943854/photo/1",
+              "media_key": "3_2067938581780570112",
+              "start": 22,
+              "url": "https://t.co/XY94WwwJc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067938593100943854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试着把自己几个月前做的神罗边界再配准一下😿 https://t.co/XY94WwwJc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27971,
+          "following_count": 2242,
+          "like_count": 23679,
+          "listed_count": 21,
+          "media_count": 1920,
+          "tweet_count": 29666
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

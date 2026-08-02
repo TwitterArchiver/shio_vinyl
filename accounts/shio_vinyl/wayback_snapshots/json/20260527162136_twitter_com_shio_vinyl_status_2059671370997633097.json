@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059581389973205344",
+    "created_at": "2026-05-27T16:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059671370997633097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482022265382342660",
+          "start": 0,
+          "username": "wowowozhishu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059671370997633097",
+    "in_reply_to_user_id": "1482022265382342660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "不需要证明动物和人有同等主体地位。虐待动物的问题至少有两点：它会让生命受苦，也会让残酷行为被娱乐化、正常化。这里不是说存在直接联系，而是存在伦理风险（即指向可替换对象的残酷行为的风险）\n所以现代公共伦理认为虐待动物不是私人偏好，即使法律限制存在争议，但大都认为而是需要限制的公共问题"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059629289205809429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wowowozhishu 不需要证明动物和人有同等主体地位。虐待动物的问题至少有两点：它会让生命受苦，也会让残酷行为被娱乐化、正常化。这里不是说存在直接联系，而是存在伦理风险（即指向可替换对象的残酷行为的风险）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059581389973205344",
+        "created_at": "2026-05-27T16:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059671370997633097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482022265382342660",
+              "start": 0,
+              "username": "wowowozhishu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059671370997633097",
+        "in_reply_to_user_id": "1482022265382342660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不需要证明动物和人有同等主体地位。虐待动物的问题至少有两点：它会让生命受苦，也会让残酷行为被娱乐化、正常化。这里不是说存在直接联系，而是存在伦理风险（即指向可替换对象的残酷行为的风险）\n所以现代公共伦理认为虐待动物不是私人偏好，即使法律限制存在争议，但大都认为而是需要限制的公共问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059629289205809429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowowozhishu 不需要证明动物和人有同等主体地位。虐待动物的问题至少有两点：它会让生命受苦，也会让残酷行为被娱乐化、正常化。这里不是说存在直接联系，而是存在伦理风险（即指向可替换对象的残酷行为的风险）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482022265382342660",
+        "conversation_id": "2059581389973205344",
+        "created_at": "2026-05-27T13:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059629289205809429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059629289205809429",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059625646486425820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 虐待动物具体有哪些伦理风险呢？如果是基于动物自身的痛苦本身具有道德上的负面价值，那这种功利主义视角和反对物种歧视的原则是可疑的。“阿米巴虫又有什么自尊可言？”\n如果是康德式义务论的角度，认为虐待动物与极端暴力犯罪存在直接联系，那更可疑了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27906,
+          "following_count": 2244,
+          "like_count": 28638,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29566
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T16:10:26.000Z",
+        "description": "收不到私信",
+        "id": "1482022265382342660",
+        "location": "Hong Kong",
+        "name": "紫苏",
+        "pinned_tweet_id": "1640691402714513408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990649616744722432/3Sk58Rbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 25,
+          "like_count": 1071,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 3447
+        },
+        "username": "wowowozhishu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2059579975582490769",
+    "created_at": "2026-05-27T10:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059579975582490769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kotose444/stat…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/kotose444/status/2059574677811642611",
+          "start": 97,
+          "url": "https://t.co/PlqHufr6Vt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059579975582490769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我0个字提及“这是不是精神疾病”，也没主张情绪审判或无差别猎巫，这和伦理标准有0个字的关系，搬出这个是何意味？\n支持专业治疗和促成求助当然可以，但这不等于公共层面要承认这种欲望对象是普通偏好。\n医学分类、法律定罪、伦理判断是三件事。没行为不该定罪，有困难可以求助，但指向无法形成有效同意者的欲望不能被正常化，这和伦理审判和情绪狂欢有半毛钱关系？而且抓罪犯靠的是司法制度，而不是靠把某种欲望对象正常化（或者试图疾病化然后走一条“去污名化”的所谓包容途径来获得公共伦理承认）\n而且我都不想提及你的头像是何意味了，我不想搞人身攻击👁️💧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059574677811642611",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我0个字提及“这是不是精神疾病”，也没主张情绪审判或无差别猎巫，这和伦理标准有0个字的关系，搬出这个是何意味？\n支持专业治疗和促成求助当然可以，但这不等于公共层面要承认这种欲望对象是普通偏好。 https://t.co/PlqHufr6Vt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2059579975582490769",
+        "created_at": "2026-05-27T10:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059579975582490769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kotose444/stat…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/kotose444/status/2059574677811642611",
+              "start": 97,
+              "url": "https://t.co/PlqHufr6Vt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059579975582490769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我0个字提及“这是不是精神疾病”，也没主张情绪审判或无差别猎巫，这和伦理标准有0个字的关系，搬出这个是何意味？\n支持专业治疗和促成求助当然可以，但这不等于公共层面要承认这种欲望对象是普通偏好。\n医学分类、法律定罪、伦理判断是三件事。没行为不该定罪，有困难可以求助，但指向无法形成有效同意者的欲望不能被正常化，这和伦理审判和情绪狂欢有半毛钱关系？而且抓罪犯靠的是司法制度，而不是靠把某种欲望对象正常化（或者试图疾病化然后走一条“去污名化”的所谓包容途径来获得公共伦理承认）\n而且我都不想提及你的头像是何意味了，我不想搞人身攻击👁️💧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059574677811642611",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我0个字提及“这是不是精神疾病”，也没主张情绪审判或无差别猎巫，这和伦理标准有0个字的关系，搬出这个是何意味？\n支持专业治疗和促成求助当然可以，但这不等于公共层面要承认这种欲望对象是普通偏好。 https://t.co/PlqHufr6Vt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917126172992782337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2059574677811642611",
+        "created_at": "2026-05-27T09:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059574677811642611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "搬运https://www.youtube.com/@PrivatePracticeSkills。目前未得到转载授权。柯克·本田 (Kirk Honda) 博士就这一运动采访了“Jay”，以认识到并非所有恋童癖者都会虐待儿童，即非犯罪性未成年人 (NOMAP)。触发警告：本集可能包含攻击、创伤和歧视等主题。 如有必要，鼓励听众不要聆听并关心他们的安全和福祉。, 视频播放量 13884、弹幕量 17、点赞数 378、投硬币枚数 47、收藏人数 831、转发人数 134, 视频作者 油管心理咨询搬运, 作者简介 从油管搬运最优质的心理学视频 传播优质心理学内容 每天更新，相关视频：【油管搬运】详解各种心理防御机制 心理动力学 中英双语字幕，【油管搬运】心‘死’的5种方法 中英双语字幕，【油管搬运】教你如何走出自我孤立 CPTSD疗愈 中英双语字幕，【油管搬运】你永远不该独自经历生活的苦难 蹩脚的童年仙女 CPTSD 中英双语字幕，【油管搬运】我们的黑暗面来自于童年创伤 中英双语字幕，【油管搬运】CPTSD难以克服的真正原因 蹩脚的童年仙女，【油管搬运】慢性焦虑? 如何有效安抚你的神经系统 30天打破焦虑循环 中英双语字幕，【油管搬运】学会识别你的回避和焦虑 紊乱型依恋 中英双语字幕，【油管搬运】三种创伤反应:讨好,控制,逃避 蹩脚的童年仙女 CPTSD 中英双语字幕，【油管搬运】如何对待侵入式思维 中英双语字幕",
+              "display_url": "bilibili.com/video/BV1jC4y1…",
+              "end": 148,
+              "expanded_url": "https://www.bilibili.com/video/BV1jC4y1Q7Rz/",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2059574690654584832/4mck56BZ?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2059574690654584832/4mck56BZ?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "【油管博客搬运】访谈恋童癖 中英双语字幕_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1jC4y1Q7Rz/",
+              "url": "https://t.co/NBFYgc1GOX"
+            },
+            {
+              "display_url": "x.com/shio_vinyl/sta…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/shio_vinyl/status/2059301792228524380",
+              "start": 162,
+              "url": "https://t.co/aWf2G83Xv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059574677811642611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059301792228524380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真正的问题是有病去治病，和加大公共空间对精神病的认知，而非搁这搞伦理审判整一场情绪狂欢。\nAnyway，在Youtube上有不少心理医生发布过经过授权的匿名恋童癖采访，我们需要这样的人来提升大家对疾病的认知度，而不是在这搞审判狂欢。\n中文翻译版本：\nhttps://t.co/NBFYgc1GOX\nBV14d5AzkEy7 https://t.co/aWf2G83Xv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27904,
+          "following_count": 2244,
+          "like_count": 28640,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29560
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-29T07:57:59.000Z",
+        "description": "PlzDontBullyMe🥺\n但我可能会惹怒你🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paperbunny.asia",
+                "end": 23,
+                "expanded_url": "https://paperbunny.asia/",
+                "start": 0,
+                "url": "https://t.co/zXljVw39Rm"
+              }
+            ]
+          }
+        },
+        "id": "1917126172992782337",
+        "location": "PlzDontBullyMe🥺",
+        "name": "琴星@兔子模式🏳️‍⚧️",
+        "pinned_tweet_id": "2058747454171062422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058749754478297088/GWqHqYhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 220,
+          "like_count": 2481,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1901
+        },
+        "url": "https://t.co/zXljVw39Rm",
+        "username": "Kotose444",
+        "verified": false
+      }
+    ]
+  }
+}

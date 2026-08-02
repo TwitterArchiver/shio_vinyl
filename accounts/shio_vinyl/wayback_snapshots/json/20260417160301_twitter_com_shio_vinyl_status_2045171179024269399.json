@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045171171034062848"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2045171179024269399",
+    "created_at": "2026-04-17T16:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045171179024269399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QcRd4e6tCr",
+          "end": 41,
+          "expanded_url": "https://x.com/shio_vinyl/status/2045171179024269399/photo/1",
+          "media_key": "3_2045171171034062848",
+          "start": 18,
+          "url": "https://t.co/QcRd4e6tCr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045171179024269399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "srds我也能做自己的logo了😿 https://t.co/QcRd4e6tCr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045171171034062848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHoWCJa4AAhuUm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045171171034062848"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2045171179024269399",
+        "created_at": "2026-04-17T16:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045171179024269399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcRd4e6tCr",
+              "end": 41,
+              "expanded_url": "https://x.com/shio_vinyl/status/2045171179024269399/photo/1",
+              "media_key": "3_2045171171034062848",
+              "start": 18,
+              "url": "https://t.co/QcRd4e6tCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045171179024269399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "srds我也能做自己的logo了😿 https://t.co/QcRd4e6tCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27145,
+          "following_count": 2239,
+          "like_count": 28994,
+          "listed_count": 20,
+          "media_count": 1869,
+          "tweet_count": 29515
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

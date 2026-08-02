@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2015792827851247768",
+    "created_at": "2026-01-26T14:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015792827851247768"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015792827851247768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终末地这个武陵的中文广播好掉胃口啊，如果没有版权之类的原因的话为什么不能用那种经典的老中广播女音🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2015792827851247768",
+        "created_at": "2026-01-26T14:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015792827851247768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015792827851247768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终末地这个武陵的中文广播好掉胃口啊，如果没有版权之类的原因的话为什么不能用那种经典的老中广播女音🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27419,
+          "following_count": 2246,
+          "like_count": 29088,
+          "listed_count": 20,
+          "media_count": 1858,
+          "tweet_count": 29453
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

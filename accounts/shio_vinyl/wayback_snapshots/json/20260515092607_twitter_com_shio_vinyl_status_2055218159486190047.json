@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055218153807126528",
+        "3_2055218153815486464"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2055218159486190047",
+    "created_at": "2026-05-15T09:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055218159486190047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T78pQbYFbH",
+          "end": 43,
+          "expanded_url": "https://x.com/shio_vinyl/status/2055218159486190047/photo/1",
+          "media_key": "3_2055218153807126528",
+          "start": 20,
+          "url": "https://t.co/T78pQbYFbH"
+        },
+        {
+          "display_url": "pic.x.com/T78pQbYFbH",
+          "end": 43,
+          "expanded_url": "https://x.com/shio_vinyl/status/2055218159486190047/photo/1",
+          "media_key": "3_2055218153815486464",
+          "start": 20,
+          "url": "https://t.co/T78pQbYFbH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055218159486190047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得很快我连arcgis都不用开了🥺 https://t.co/T78pQbYFbH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055218153807126528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWaBZmboAAAkWa.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055218153815486464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWaBZobMAAlBFP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055218153807126528",
+            "3_2055218153815486464"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2055218159486190047",
+        "created_at": "2026-05-15T09:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055218159486190047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T78pQbYFbH",
+              "end": 43,
+              "expanded_url": "https://x.com/shio_vinyl/status/2055218159486190047/photo/1",
+              "media_key": "3_2055218153807126528",
+              "start": 20,
+              "url": "https://t.co/T78pQbYFbH"
+            },
+            {
+              "display_url": "pic.x.com/T78pQbYFbH",
+              "end": 43,
+              "expanded_url": "https://x.com/shio_vinyl/status/2055218159486190047/photo/1",
+              "media_key": "3_2055218153815486464",
+              "start": 20,
+              "url": "https://t.co/T78pQbYFbH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055218159486190047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得很快我连arcgis都不用开了🥺 https://t.co/T78pQbYFbH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27883,
+          "following_count": 2240,
+          "like_count": 28667,
+          "listed_count": 20,
+          "media_count": 1879,
+          "tweet_count": 29538
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

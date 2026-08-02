@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2060580079454044665",
+    "created_at": "2026-05-30T04:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060580079454044665"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060580079454044665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有个大胆的想法，打算近期做但是不知道实际如何。大概就是向rhino引入类似于gis那样的数据库属性表机制，试图替代掉grasshopper糟糕的datatree？如果可能的话理论上来说是一个新的更高效的参数化建模平台？毕竟论这方面明显是gis的结构更占优势，grasshopper的datatree明显只是为了照顾建模师罢了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2060580079454044665",
+        "created_at": "2026-05-30T04:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060580079454044665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060580079454044665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有个大胆的想法，打算近期做但是不知道实际如何。大概就是向rhino引入类似于gis那样的数据库属性表机制，试图替代掉grasshopper糟糕的datatree？如果可能的话理论上来说是一个新的更高效的参数化建模平台？毕竟论这方面明显是gis的结构更占优势，grasshopper的datatree明显只是为了照顾建模师罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27910,
+          "following_count": 2243,
+          "like_count": 28641,
+          "listed_count": 20,
+          "media_count": 1882,
+          "tweet_count": 29580
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2044733961658925132",
+    "created_at": "2026-04-16T11:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044734519316725948"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044734519316725948",
+    "in_reply_to_user_id": "1359161118300766219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044734331684622447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我服了就是卡住了，用量都没动🫠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "3_2044734326051614720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBbCTxasAAaaSk.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2044733961658925132",
+        "created_at": "2026-04-16T11:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044734519316725948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044734519316725948",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044734331684622447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我服了就是卡住了，用量都没动🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044734326051614720"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2044733961658925132",
+        "created_at": "2026-04-16T11:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044734331684622447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MATbml263b",
+              "end": 30,
+              "expanded_url": "https://x.com/shio_vinyl/status/2044734331684622447/photo/1",
+              "media_key": "3_2044734326051614720",
+              "start": 7,
+              "url": "https://t.co/MATbml263b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044734331684622447",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044733961658925132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "震撼的速度… https://t.co/MATbml263b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27131,
+          "following_count": 2239,
+          "like_count": 28994,
+          "listed_count": 20,
+          "media_count": 1868,
+          "tweet_count": 29513
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

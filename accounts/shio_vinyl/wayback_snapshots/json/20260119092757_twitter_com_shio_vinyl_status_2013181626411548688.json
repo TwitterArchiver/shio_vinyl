@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2013181626411548688",
+    "created_at": "2026-01-19T09:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T10:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013181626411548688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kitty068_ly/st…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/kitty068_ly/status/2012908735262515215",
+          "start": 87,
+          "url": "https://t.co/IhrAFbOi5d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013181626411548688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012908735262515215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我其实觉得总是认为“只要受害就一定是存在一个敌人”也是一种现代性精神病，像是一种精神代偿吧。\n某些东西作恶并不需要专门针对谁，为什么总是需要把自己先摆在什么位置来看问题呢？ https://t.co/IhrAFbOi5d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2012908724852039680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9J0gYXIAAK0F4.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2013181626411548688",
+        "created_at": "2026-01-19T09:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T10:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013181626411548688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kitty068_ly/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/kitty068_ly/status/2012908735262515215",
+              "start": 87,
+              "url": "https://t.co/IhrAFbOi5d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013181626411548688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012908735262515215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实觉得总是认为“只要受害就一定是存在一个敌人”也是一种现代性精神病，像是一种精神代偿吧。\n某些东西作恶并不需要专门针对谁，为什么总是需要把自己先摆在什么位置来看问题呢？ https://t.co/IhrAFbOi5d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012908724852039680"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2012908735262515215",
+        "created_at": "2026-01-18T15:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012908735262515215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaJKb242Kf",
+              "end": 36,
+              "expanded_url": "https://x.com/kitty068_ly/status/2012908735262515215/photo/1",
+              "media_key": "3_2012908724852039680",
+              "start": 13,
+              "url": "https://t.co/vaJKb242Kf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012908735262515215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 30278,
+          "like_count": 255,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的手不知不觉摸向白纸… https://t.co/vaJKb242Kf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27415,
+          "following_count": 2244,
+          "like_count": 29097,
+          "listed_count": 20,
+          "media_count": 1857,
+          "tweet_count": 29447
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "千万不能让它知道海的那边有什么/认识我，快来向我匿名发问！https://t.co/F3qF2l3b4z   ——POME 用兴趣认识你想认识的人",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xingququan.com/dlXHxXs0",
+                "end": 52,
+                "expanded_url": "https://www.xingququan.com/dlXHxXs0",
+                "start": 29,
+                "url": "https://t.co/F3qF2l3b4z"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "Fall in love",
+        "name": "异子而食",
+        "pinned_tweet_id": "2010537941366620274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010299285691396096/xLggXpgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 322,
+          "like_count": 1990,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1494
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067961530810023936"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2067961543279645106",
+    "created_at": "2026-06-19T13:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067961543279645106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ttTJbq0o8U",
+          "end": 75,
+          "expanded_url": "https://x.com/shio_vinyl/status/2067961543279645106/photo/1",
+          "media_key": "3_2067961530810023936",
+          "start": 52,
+          "url": "https://t.co/ttTJbq0o8U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067961543279645106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我开始怀疑历史专业制图是不是普遍都是手描了，虽然手描没什么，但是城市点也手描还偏移这么多是否太离谱了🫠 https://t.co/ttTJbq0o8U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_2067961530810023936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLgDkUawAA0DhZ.jpg",
+        "width": 1676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067961530810023936"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2067961543279645106",
+        "created_at": "2026-06-19T13:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067961543279645106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttTJbq0o8U",
+              "end": 75,
+              "expanded_url": "https://x.com/shio_vinyl/status/2067961543279645106/photo/1",
+              "media_key": "3_2067961530810023936",
+              "start": 52,
+              "url": "https://t.co/ttTJbq0o8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067961543279645106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开始怀疑历史专业制图是不是普遍都是手描了，虽然手描没什么，但是城市点也手描还偏移这么多是否太离谱了🫠 https://t.co/ttTJbq0o8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27970,
+          "following_count": 2242,
+          "like_count": 23679,
+          "listed_count": 21,
+          "media_count": 1922,
+          "tweet_count": 29668
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": true
+      }
+    ]
+  }
+}

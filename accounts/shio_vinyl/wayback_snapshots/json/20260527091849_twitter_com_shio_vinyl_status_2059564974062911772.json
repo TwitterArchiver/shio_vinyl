@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059564974062911772",
+    "created_at": "2026-05-27T09:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059564974062911772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vedaai00/statu…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/vedaai00/status/2059415396965548370",
+          "start": 37,
+          "url": "https://t.co/yZ2Sj87Do8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059564974062911772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059415396965548370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "几百年前就有的参数化模型算法说是ai。。。反正发帖0成本炒作有收益👁️💧 https://t.co/yZ2Sj87Do8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39566,
+        "height": 1280,
+        "media_key": "13_2059415025039851520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059415025039851520/img/N8c_bWdRndUX18qb.jpg",
+        "public_metrics": {
+          "view_count": 46438
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059415025039851520/vid/avc1/320x568/P5jANHxOS2uvg5HF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059415025039851520/vid/avc1/480x852/847jqzYZ2803ZGIa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059415025039851520/vid/avc1/720x1280/8Xr5Y1MvqehdIgPQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059415025039851520/pl/rrFoXq_oDXBkS-D3.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059564974062911772",
+        "created_at": "2026-05-27T09:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059564974062911772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vedaai00/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/vedaai00/status/2059415396965548370",
+              "start": 37,
+              "url": "https://t.co/yZ2Sj87Do8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059564974062911772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059415396965548370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几百年前就有的参数化模型算法说是ai。。。反正发帖0成本炒作有收益👁️💧 https://t.co/yZ2Sj87Do8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059415025039851520"
+          ]
+        },
+        "author_id": "1839507984189403136",
+        "conversation_id": "2059415396965548370",
+        "created_at": "2026-05-26T23:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059415396965548370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08LTTDSFNK",
+              "end": 158,
+              "expanded_url": "https://x.com/VedaAI00/status/2059415396965548370/video/1",
+              "media_key": "13_2059415025039851520",
+              "start": 135,
+              "url": "https://t.co/08LTTDSFNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059415396965548370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 311,
+                "id": "1839507984189403136",
+                "start": 302,
+                "username": "VedaAI00"
+              }
+            ]
+          },
+          "text": "不要再抱怨停车难了，其实是设计师在浪费你的空间。\n\nİnşaat Doktoru 展示了一款能彻底颠覆建筑规划流程的软件。你只需要提供地形图纸，它能在几秒钟内自动扫描地形限制，并计算出一条绝对最高效的停车场布局方案。\n\n这里的工程逻辑直指行业痛点：\n- 传统的 CAD 绘制受限于人类设计师的习惯、视角盲区和计算疲劳，往往会导致大量的无效空间被浪费。\n- 而这个系统将「空间规划」变成了一个严谨的优化算法问题，通过穷举测试，榨干每一平米的物理价值。\n\n当 AI 接管了地形与几何的计算，建筑设计中的「习惯性浪费」将被清零。\n\n我是「谁是藏镜人」，专注于挖掘 AI 在工程与物理世界演进的底层逻辑。\n关注 @VedaAI00，带你看清从算法到钢筋水泥的降维打击。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 103313,
+          "like_count": 602,
+          "quote_count": 13,
+          "reply_count": 17,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "不要再抱怨停车难了，其实是设计师在浪费你的空间。\n\nİnşaat Doktoru 展示了一款能彻底颠覆建筑规划流程的软件。你只需要提供地形图纸，它能在几秒钟内自动扫描地形限制，并计算出一条绝对最高效的停车场布局方案。\n\n这里的工程逻辑直指行业痛点：\n- 传统的 CAD https://t.co/08LTTDSFNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27906,
+          "following_count": 2245,
+          "like_count": 28640,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29559
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T03:31:05.000Z",
+        "description": "探索科技与AI",
+        "id": "1839507984189403136",
+        "location": "Moon",
+        "name": "谁是藏镜人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040729689585795072/zfjMcEVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 31,
+          "like_count": 319,
+          "listed_count": 18,
+          "media_count": 403,
+          "tweet_count": 847
+        },
+        "username": "VedaAI00",
+        "verified": true
+      }
+    ]
+  }
+}

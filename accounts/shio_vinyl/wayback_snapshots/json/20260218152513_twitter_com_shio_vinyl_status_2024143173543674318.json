@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2024141396559511756",
+    "created_at": "2026-02-18T15:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024143173543674318"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024143173543674318",
+    "in_reply_to_user_id": "1359161118300766219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024141396559511756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神不再是前提，历史却成了新的前提。现代性看似去神学化，实际上只是把终极意义安放在进步之中。\n所以某种意义上而言共产主义在现代性上面已经登峰造极了，只是这种登峰造极和资本主义神话甚至是法西斯主义的幻想是同频的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2024141396559511756",
+        "created_at": "2026-02-18T15:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024143173543674318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024143173543674318",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024141396559511756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神不再是前提，历史却成了新的前提。现代性看似去神学化，实际上只是把终极意义安放在进步之中。\n所以某种意义上而言共产主义在现代性上面已经登峰造极了，只是这种登峰造极和资本主义神话甚至是法西斯主义的幻想是同频的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2024141396559511756",
+        "created_at": "2026-02-18T15:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024141396559511756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024141396559511756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有神论衰落并不是因为什么科学普及，本质还是有种更加简洁的模型解释世界，而不需要打各种补丁。\n可以说是经院哲学引入亚氏使得理性成为神学的工具，当理性可以独立运作时，至高存在就逐渐显得不再必要——一个封闭的解释体系开始怀疑其前提。\n历史唯物主义仍然在继续18世纪的“启蒙神话”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "苯人一时半会死不了很抱芡，看我不爽要不你自己先试试👉👈｜杂食主gl｜ミカ激推但对BA不感兴趣已退坑｜会转发很多自推的插画",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997716976286986240/GvfzSan9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27474,
+          "following_count": 2246,
+          "like_count": 29052,
+          "listed_count": 20,
+          "media_count": 1861,
+          "tweet_count": 29469
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      }
+    ]
+  }
+}

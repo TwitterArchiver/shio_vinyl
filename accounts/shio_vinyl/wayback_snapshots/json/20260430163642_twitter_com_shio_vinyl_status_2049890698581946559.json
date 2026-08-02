@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2049887130575569313",
+    "created_at": "2026-04-30T16:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049890698581946559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279688463797719040",
+          "start": 0,
+          "username": "NobodyXU2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049890698581946559",
+    "in_reply_to_user_id": "1279688463797719040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049888634204274790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NobodyXU2000 不一样，政党起码是一种横向的公共秩序形式，父权家庭结构是竖向的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2049887130575569313",
+        "created_at": "2026-04-30T16:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049890698581946559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279688463797719040",
+              "start": 0,
+              "username": "NobodyXU2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049890698581946559",
+        "in_reply_to_user_id": "1279688463797719040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049888634204274790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NobodyXU2000 不一样，政党起码是一种横向的公共秩序形式，父权家庭结构是竖向的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279688463797719040",
+        "conversation_id": "2049887130575569313",
+        "created_at": "2026-04-30T16:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049888634204274790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049888634204274790",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049887130575569313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 其实我感觉很多地方都是这样，美英澳也是，比如美国的两党轮换，澳洲也是两党，不过还好上院有proportional reform，就看接下来progressive bloc能不能终结两党统治，像欧洲一些国家，比如德国，一样彻底采用proportional rep终结两党制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27795,
+          "following_count": 2240,
+          "like_count": 28764,
+          "listed_count": 20,
+          "media_count": 1873,
+          "tweet_count": 29531
+        },
+        "username": "shio_vinyl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T08:08:09.000Z",
+        "description": "",
+        "id": "1279688463797719040",
+        "location": "Sydney, New South Wales",
+        "name": "NobodyXU",
+        "pinned_tweet_id": "1601444682713776129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586163080211226625/gfgV-kh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 142,
+          "like_count": 21266,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3005
+        },
+        "username": "NobodyXU2000",
+        "verified": false
+      }
+    ]
+  }
+}

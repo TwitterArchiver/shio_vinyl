@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059581389973205344",
+    "created_at": "2026-05-27T13:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059624361032864150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678385508609839105",
+          "start": 0,
+          "username": "liueric40542933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059624361032864150",
+    "in_reply_to_user_id": "1678385508609839105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059612864491757726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liueric40542933 你根本没看明白我在说什么，我在说“公共伦理风险”，你在说什么？我根本没在讨论“谁更容易侵害未成年人”🫠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 286,
+        "media_key": "3_2059612855226482688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU2-sKaQAAReCI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 440,
+        "media_key": "3_2059612067418734592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU2Q1WaAAAHeAZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059581389973205344",
+        "created_at": "2026-05-27T13:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059624361032864150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678385508609839105",
+              "start": 0,
+              "username": "liueric40542933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059624361032864150",
+        "in_reply_to_user_id": "1678385508609839105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059612864491757726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liueric40542933 你根本没看明白我在说什么，我在说“公共伦理风险”，你在说什么？我根本没在讨论“谁更容易侵害未成年人”🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059612855226482688",
+            "3_2059612067418734592"
+          ]
+        },
+        "author_id": "1678385508609839105",
+        "conversation_id": "2059581389973205344",
+        "created_at": "2026-05-27T12:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059612864491757726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Sexual frustration is a potentially important treatment need for people who are attracted to children, but little is known about how such individuals seek to address this. In this paper, we report ...",
+              "display_url": "doi.org/10.1080/194198…",
+              "end": 196,
+              "expanded_url": "https://doi.org/10.1080/19419899.2026.2619511",
+              "images": [
+                {
+                  "height": 583,
+                  "url": "https://pbs.twimg.com/news_img/2058365494655393792/RGOOL5uJ?format=jpg&name=orig",
+                  "width": 1114
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058365494655393792/RGOOL5uJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 173,
+              "status": 200,
+              "title": "Understanding the use of child-related sexual fantasy and fictional sexual materials by people who are attracted to children",
+              "unwound_url": "https://www.tandfonline.com/doi/full/10.1080/19419899.2026.2619511",
+              "url": "https://t.co/cXwn8iDQGH"
+            },
+            {
+              "display_url": "pic.x.com/8jPyPq3pFL",
+              "end": 220,
+              "expanded_url": "https://x.com/liueric40542933/status/2059612864491757726/photo/1",
+              "media_key": "3_2059612855226482688",
+              "start": 197,
+              "url": "https://t.co/8jPyPq3pFL"
+            },
+            {
+              "display_url": "pic.x.com/8jPyPq3pFL",
+              "end": 220,
+              "expanded_url": "https://x.com/liueric40542933/status/2059612864491757726/photo/1",
+              "media_key": "3_2059612067418734592",
+              "start": 197,
+              "url": "https://t.co/8jPyPq3pFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059612864491757726",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059581389973205344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 真要说风险的话醉酒者、OD者、与伴侣不和者也有风险（图1: Simon, Baldwin &amp; Baldwin, 2020）要社会对儿童零风险的事实上应禁止车辆行驶，它们也有令儿童受伤死亡的风险\n 之后，恋童不是导致CSA的充足条件，但更有可能去看CSEM  (图2：Seto, 2018)\n而部分人会跑去找替代品：https://t.co/cXwn8iDQGH https://t.co/8jPyPq3pFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27903,
+          "following_count": 2244,
+          "like_count": 28640,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29563
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-10T12:47:59.000Z",
+        "description": "no DM",
+        "id": "1678385508609839105",
+        "name": "liu eric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042591591240732682/kgzJmnTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 23,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 483,
+          "tweet_count": 2063
+        },
+        "username": "liueric40542933",
+        "verified": false
+      }
+    ]
+  }
+}

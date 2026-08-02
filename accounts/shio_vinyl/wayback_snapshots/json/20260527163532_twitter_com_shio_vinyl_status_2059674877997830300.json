@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2059581389973205344",
+    "created_at": "2026-05-27T16:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059674877997830300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678385508609839105",
+          "start": 0,
+          "username": "liueric40542933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059674877997830300",
+    "in_reply_to_user_id": "1678385508609839105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059628142273458682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liueric40542933 你又把临床诊断框架当成公共伦理框架了。医学里的“正常化”和公共伦理里的“正常化”根本不是一回事，这里说的是公共规范意义上的可接受性。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2059581389973205344",
+        "created_at": "2026-05-27T16:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059674877997830300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678385508609839105",
+              "start": 0,
+              "username": "liueric40542933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059674877997830300",
+        "in_reply_to_user_id": "1678385508609839105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059628142273458682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liueric40542933 你又把临床诊断框架当成公共伦理框架了。医学里的“正常化”和公共伦理里的“正常化”根本不是一回事，这里说的是公共规范意义上的可接受性。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678385508609839105",
+        "conversation_id": "2059581389973205344",
+        "created_at": "2026-05-27T13:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059628142273458682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ],
+          "urls": [
+            {
+              "description": "\"I’m not one of these guys who goes out of his way to be politically incorrect.\"",
+              "display_url": "vice.com/en/article/her…",
+              "end": 169,
+              "expanded_url": "https://www.vice.com/en/article/heres-how-the-guy-who-wrote-the-manual-on-sex-talks-about-sex/",
+              "images": [
+                {
+                  "height": 788,
+                  "url": "https://pbs.twimg.com/news_img/2059628187664203776/MjsYZ3xV?format=jpg&name=orig",
+                  "width": 1400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059628187664203776/MjsYZ3xV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 146,
+              "status": 200,
+              "title": "How the Psychiatrist Who Co-Wrote the Manual on Sex Talks About Sex",
+              "unwound_url": "https://www.vice.com/en/article/heres-how-the-guy-who-wrote-the-manual-on-sex-talks-about-sex/",
+              "url": "https://t.co/m3MFmcPjX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059628142273458682",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059626717405397099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 正常/不正常不是性学用语，而是主观用语。\n\"Blanchard is very fond of the word normal, but even he will tell you, its use in sexual psychology is verboten\"\nhttps://t.co/m3MFmcPjX7\n本人早舍弃这一维度的判断，改用distress/harmful/risk harming。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "name": "塩ビ_🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27905,
+          "following_count": 2244,
+          "like_count": 28638,
+          "listed_count": 20,
+          "media_count": 1880,
+          "tweet_count": 29568
+        },
+        "username": "shio_vinyl",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-10T12:47:59.000Z",
+        "description": "no DM",
+        "id": "1678385508609839105",
+        "name": "liu eric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042591591240732682/kgzJmnTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 23,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 483,
+          "tweet_count": 2072
+        },
+        "username": "liueric40542933",
+        "verified": false
+      }
+    ]
+  }
+}

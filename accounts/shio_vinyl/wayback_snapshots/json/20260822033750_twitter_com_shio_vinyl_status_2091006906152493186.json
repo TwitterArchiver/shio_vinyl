@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2091006906152493186",
+    "created_at": "2026-08-22T03:37:50.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T04:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091006906152493186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091006906152493186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男m的小巧思，大家都认真了反而让它爽了唉🐱💧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2091006906152493186",
+        "created_at": "2026-08-22T03:37:50.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091006906152493186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091006906152493186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男m的小巧思，大家都认真了反而让它爽了唉🐱💧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091006906152493186",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28250,
+          "following_count": 2238,
+          "like_count": 22988,
+          "listed_count": 21,
+          "media_count": 1947,
+          "tweet_count": 29735
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

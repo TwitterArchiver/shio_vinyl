@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2086311003357413694",
+    "created_at": "2026-08-09T04:37:59.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T05:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086311003357413694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2085606873521078571",
+          "start": 34,
+          "url": "https://t.co/j0jBCtcJ9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086311003357413694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085606873521078571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非谋生为动机的娼妓真的有资格指指点点嫖客吗？没意识到是蛇鼠一窝？🤔 https://t.co/j0jBCtcJ9o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2086311003357413694",
+        "created_at": "2026-08-09T04:37:59.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086311003357413694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2085606873521078571",
+              "start": 34,
+              "url": "https://t.co/j0jBCtcJ9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086311003357413694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085606873521078571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非谋生为动机的娼妓真的有资格指指点点嫖客吗？没意识到是蛇鼠一窝？🤔 https://t.co/j0jBCtcJ9o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085606873521078571",
+        "created_at": "2026-08-07T06:00:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085606873521078571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085606873521078571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这段时间吃了一些男的，愈发感觉到了父权制对男性的摧残，其中很明显的一点就是大部分男性对性关系的理解真的无比灾难。很多男的完全把性当成某种有明确指标和成就系统的测验，尤其喜欢念叨自己下面多长、时间多么持久、和多少女性做过爱，无时无刻不处在对自身性能力的焦虑和攀比之中，因此一方面意识不到自己的吸引力究竟在何处，一方面也经常因在做爱过程中因焦虑自己的表现而阳痿。有没有可能，性不是做题，不是对你的考验和你拿来吹嘘的资产，而是需要你和对方共同创作和享受的当下体验；大部分女性甚至都没有阴道快感，好的前戏和aftercare对性爱体验的影响是远甚于你抽插的频率和时间的"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 112924,
+          "like_count": 660,
+          "quote_count": 32,
+          "reply_count": 59,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "这段时间吃了一些男的，愈发感觉到了父权制对男性的摧残，其中很明显的一点就是大部分男性对性关系的理解真的无比灾难。很多男的完全把性当成某种有明确指标和成就系统的测验，尤其喜欢念叨自己下面多长、时间多么持久、和多少女性做过爱，无时无刻不处在对自身性能力的焦虑和攀比之中，因此一方面意识"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086311003357413694",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28189,
+          "following_count": 2238,
+          "like_count": 23087,
+          "listed_count": 21,
+          "media_count": 1947,
+          "tweet_count": 29732
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086309662253543659",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4775,
+          "following_count": 782,
+          "like_count": 2795,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-31T20:00:55",
+  "last_updated": "2026-08-31T20:01:09",
   "html": {
     "https://web.archive.org/web/20251207183630if_/https://twitter.com/shio_vinyl/status/1997736995280593195": {
       "status": "done",
@@ -3552,10 +3552,11 @@
       "last_updated": "2026-08-02T00:06:27"
     },
     "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260809043759_twitter_com_shio_vinyl_status_2086311003357413694.json"
-      ]
+      ],
+      "last_updated": "2026-08-31T20:01:09"
     }
   },
   "media": {
@@ -8262,7 +8263,7 @@
       "last_updated": "2026-08-31T19:57:52"
     },
     "20260809043759_twitter_com_shio_vinyl_status_2086311003357413694.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -8271,7 +8272,7 @@
           "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-31T20:00:54"
+      "last_updated": "2026-08-31T20:01:09"
     },
     "20260812160430_twitter_com_shio_vinyl_status_2087570935742341363.json": {
       "status": "done",

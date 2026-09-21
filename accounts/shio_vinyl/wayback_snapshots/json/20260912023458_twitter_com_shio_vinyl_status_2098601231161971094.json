@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2098600210222182661",
+    "created_at": "2026-09-12T02:34:58.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T03:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098601231161971094"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098601231161971094",
+    "in_reply_to_user_id": "1359161118300766219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098600972629291053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许一切的范式变革还是得从某个地方开始…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2098600210222182661",
+        "created_at": "2026-09-12T02:34:58.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098601231161971094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098601231161971094",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098600972629291053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许一切的范式变革还是得从某个地方开始…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2098600210222182661",
+        "created_at": "2026-09-12T02:33:56.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T03:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098600972629291053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098600972629291053",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098600210222182661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说难听点的话，科研民工实际上从一开始必要性（个人价值反馈也是）就并不稳固，只是ai彻底揭露了这一点罢了。就像那谁说的，本质你就是整个社会网络的一个神经元，在这种逻辑下把你替换成一个机械零件，甚至是一个机械零件替换掉许许多多和你一样的人肉零件，这个社会还是那个社会"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098601231161971094",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28350,
+          "following_count": 2238,
+          "like_count": 22964,
+          "listed_count": 21,
+          "media_count": 1954,
+          "tweet_count": 29754
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

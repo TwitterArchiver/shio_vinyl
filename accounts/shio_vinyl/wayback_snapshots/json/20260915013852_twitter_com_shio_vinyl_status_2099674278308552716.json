@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2099483639436505379",
+    "created_at": "2026-09-15T01:38:52.000Z",
+    "display_text_range": [
+      13,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T02:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099674278308552716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1516245279191838724",
+          "start": 0,
+          "username": "yi_xiao_jiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099674278308552716",
+    "in_reply_to_user_id": "1516245279191838724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099557298415059130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_xiao_jiu 生成该角色的各种普通人日常的自拍失败造成意外模糊的照片，风格和提供绘画的风格一致，并非写实风格，3x3，9:16"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2099483639436505379",
+        "created_at": "2026-09-15T01:38:52.000Z",
+        "display_text_range": [
+          13,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099674278308552716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1516245279191838724",
+              "start": 0,
+              "username": "yi_xiao_jiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099674278308552716",
+        "in_reply_to_user_id": "1516245279191838724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099557298415059130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_xiao_jiu 生成该角色的各种普通人日常的自拍失败造成意外模糊的照片，风格和提供绘画的风格一致，并非写实风格，3x3，9:16"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516245279191838724",
+        "conversation_id": "2099483639436505379",
+        "created_at": "2026-09-14T17:54:02.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T18:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099557298415059130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099557298415059130",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099483639436505379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 什么提示词，我也想玩(╥_╥)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099674278308552716",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28381,
+          "following_count": 2238,
+          "like_count": 22966,
+          "listed_count": 21,
+          "media_count": 1958,
+          "tweet_count": 29763
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-19T02:40:35.000Z",
+        "description": "努力塑造 oc 雨泽悠乃（悠酱）\n正在做开源 AI 伙伴项目 github/yuiju\n关注 AI 陪伴与 AIGC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.yixiaojiu.top",
+                "end": 23,
+                "expanded_url": "https://note.yixiaojiu.top",
+                "start": 0,
+                "url": "https://t.co/cxeXgaWumI"
+              }
+            ]
+          }
+        },
+        "id": "1516245279191838724",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099557298415059130",
+        "name": "翊小久",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516245279191838724/1772211383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202581206298626/drwWGvWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 185,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/cxeXgaWumI",
+        "username": "yi_xiao_jiu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097011581976784896"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2097011596757447159",
+    "created_at": "2026-09-07T17:18:19.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T18:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097011596757447159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7MZEgiqVru",
+          "end": 134,
+          "expanded_url": "https://x.com/shio_vinyl/status/2097011596757447159/photo/1",
+          "media_key": "3_2097011581976784896",
+          "start": 111,
+          "url": "https://t.co/7MZEgiqVru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097011596757447159",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097011581976784896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6.0astra的图像标注能力很恐怖…😿\n我之前还以为相比于sol也就那样，结果准确度真的提升了很多。\n我感觉复杂纸质地图的矢量化真的可以直接干了，如果进一步分片和图像预处理的话结果肯定会相当可观，已经很接近人工手描了😿 https://t.co/7MZEgiqVru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1247,
+        "media_key": "3_2097011581976784896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRoU7GGbMAAYQ9i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097011581976784896"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2097011596757447159",
+        "created_at": "2026-09-07T17:18:19.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097011596757447159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MZEgiqVru",
+              "end": 134,
+              "expanded_url": "https://x.com/shio_vinyl/status/2097011596757447159/photo/1",
+              "media_key": "3_2097011581976784896",
+              "start": 111,
+              "url": "https://t.co/7MZEgiqVru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097011596757447159",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097011581976784896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6.0astra的图像标注能力很恐怖…😿\n我之前还以为相比于sol也就那样，结果准确度真的提升了很多。\n我感觉复杂纸质地图的矢量化真的可以直接干了，如果进一步分片和图像预处理的话结果肯定会相当可观，已经很接近人工手描了😿 https://t.co/7MZEgiqVru"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097011596757447159",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28311,
+          "following_count": 2239,
+          "like_count": 22956,
+          "listed_count": 21,
+          "media_count": 1949,
+          "tweet_count": 29738
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

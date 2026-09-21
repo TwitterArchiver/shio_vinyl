@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098777546867519488",
+        "3_2098777546863357953",
+        "3_2098777546859159552"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2098777577590825282",
+    "created_at": "2026-09-12T14:15:42.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098777577590825282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wsgj7YAZvS",
+          "end": 69,
+          "expanded_url": "https://x.com/shio_vinyl/status/2098777577590825282/photo/1",
+          "media_key": "3_2098777546867519488",
+          "start": 46,
+          "url": "https://t.co/Wsgj7YAZvS"
+        },
+        {
+          "display_url": "pic.x.com/Wsgj7YAZvS",
+          "end": 69,
+          "expanded_url": "https://x.com/shio_vinyl/status/2098777577590825282/photo/1",
+          "media_key": "3_2098777546863357953",
+          "start": 46,
+          "url": "https://t.co/Wsgj7YAZvS"
+        },
+        {
+          "display_url": "pic.x.com/Wsgj7YAZvS",
+          "end": 69,
+          "expanded_url": "https://x.com/shio_vinyl/status/2098777577590825282/photo/1",
+          "media_key": "3_2098777546859159552",
+          "start": 46,
+          "url": "https://t.co/Wsgj7YAZvS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098777577590825282",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098777546867519488"
+      },
+      {
+        "media_key": "3_2098777546863357953"
+      },
+      {
+        "media_key": "3_2098777546859159552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分析了一个专门追踪全国环境污染的up渔猎齐哥的投稿地点分布。\n感觉贵州这个地方有说法的🐱💧 https://t.co/Wsgj7YAZvS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2098777546867519488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBbDx-asAAjksd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1189,
+        "media_key": "3_2098777546863357953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBbDx9bMAEncNS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1575,
+        "media_key": "3_2098777546859159552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBbDx8bIAAzhIE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098777546867519488",
+            "3_2098777546863357953",
+            "3_2098777546859159552"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2098777577590825282",
+        "created_at": "2026-09-12T14:15:42.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098777577590825282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wsgj7YAZvS",
+              "end": 69,
+              "expanded_url": "https://x.com/shio_vinyl/status/2098777577590825282/photo/1",
+              "media_key": "3_2098777546867519488",
+              "start": 46,
+              "url": "https://t.co/Wsgj7YAZvS"
+            },
+            {
+              "display_url": "pic.x.com/Wsgj7YAZvS",
+              "end": 69,
+              "expanded_url": "https://x.com/shio_vinyl/status/2098777577590825282/photo/1",
+              "media_key": "3_2098777546863357953",
+              "start": 46,
+              "url": "https://t.co/Wsgj7YAZvS"
+            },
+            {
+              "display_url": "pic.x.com/Wsgj7YAZvS",
+              "end": 69,
+              "expanded_url": "https://x.com/shio_vinyl/status/2098777577590825282/photo/1",
+              "media_key": "3_2098777546859159552",
+              "start": 46,
+              "url": "https://t.co/Wsgj7YAZvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098777577590825282",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098777546867519488"
+          },
+          {
+            "media_key": "3_2098777546863357953"
+          },
+          {
+            "media_key": "3_2098777546859159552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分析了一个专门追踪全国环境污染的up渔猎齐哥的投稿地点分布。\n感觉贵州这个地方有说法的🐱💧 https://t.co/Wsgj7YAZvS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098777577590825282",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28356,
+          "following_count": 2238,
+          "like_count": 22963,
+          "listed_count": 21,
+          "media_count": 1955,
+          "tweet_count": 29757
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

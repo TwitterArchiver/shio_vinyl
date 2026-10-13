@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2105568765161373851",
+    "created_at": "2026-10-01T08:03:00.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T09:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105569154128654410"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2105569154128654410",
+    "in_reply_to_user_id": "1359161118300766219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105568765161373851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还是感觉不太准，不同事情得看场景😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_2105568755313258496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh7oI6bsAA6TqJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2105568765161373851",
+        "created_at": "2026-10-01T08:03:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105569154128654410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105569154128654410",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105568765161373851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还是感觉不太准，不同事情得看场景😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105568755313258496"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2105568765161373851",
+        "created_at": "2026-10-01T08:01:27.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105568765161373851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9478i8abv",
+              "end": 28,
+              "expanded_url": "https://x.com/shio_vinyl/status/2105568765161373851/photo/1",
+              "media_key": "3_2105568755313258496",
+              "start": 5,
+              "url": "https://t.co/U9478i8abv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105568765161373851",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2105568755313258496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wow👀 https://t.co/U9478i8abv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105569154128654410",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28708,
+          "following_count": 2234,
+          "like_count": 23073,
+          "listed_count": 21,
+          "media_count": 2003,
+          "tweet_count": 29932
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

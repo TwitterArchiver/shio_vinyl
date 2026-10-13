@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2103820745944215840",
+    "created_at": "2026-09-27T02:55:38.000Z",
+    "display_text_range": [
+      11,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T03:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104042249206353933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067985437281652736",
+          "start": 0,
+          "username": "halouyesi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104042249206353933",
+    "in_reply_to_user_id": "2067985437281652736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104029768903708731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@halouyesi 最近都很少用skill了（规则类的），高级模型这样做似乎只会拖累他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2103820745944215840",
+        "created_at": "2026-09-27T02:55:38.000Z",
+        "display_text_range": [
+          11,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104042249206353933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067985437281652736",
+              "start": 0,
+              "username": "halouyesi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104042249206353933",
+        "in_reply_to_user_id": "2067985437281652736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104029768903708731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@halouyesi 最近都很少用skill了（规则类的），高级模型这样做似乎只会拖累他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067985437281652736",
+        "conversation_id": "2103820745944215840",
+        "created_at": "2026-09-27T02:06:02.000Z",
+        "display_text_range": [
+          12,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104029768903708731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104029768903708731",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103820745944215840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl claude会不会出现你让他参考一个skill把 他会不参考嘛  codex几乎他是只会答应  用不了两轮对话他就忘了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104042249206353933",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28630,
+          "following_count": 2236,
+          "like_count": 23006,
+          "listed_count": 21,
+          "media_count": 1981,
+          "tweet_count": 29846
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T15:00:45.000Z",
+        "description": "",
+        "id": "2067985437281652736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104029768903708731",
+        "name": "哈喽",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103778887058808832/zFEhfBny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 177,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "halouyesi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

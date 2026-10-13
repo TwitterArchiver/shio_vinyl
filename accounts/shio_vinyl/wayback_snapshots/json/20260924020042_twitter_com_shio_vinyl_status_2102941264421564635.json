@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2102570833537630550",
+    "created_at": "2026-09-24T02:00:42.000Z",
+    "display_text_range": [
+      14,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102941264421564635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565880195403304960",
+          "start": 0,
+          "username": "maximumbaelz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102941264421564635",
+    "in_reply_to_user_id": "1565880195403304960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102802198342304222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maximumbaelz gemini现在多模态能力早就差gpt很多了🫠\nluna我怀疑是推理长度和深度的问题导致标注精度不足，6.0底模的视觉能力都在那的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2102570833537630550",
+        "created_at": "2026-09-24T02:00:42.000Z",
+        "display_text_range": [
+          14,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102941264421564635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565880195403304960",
+              "start": 0,
+              "username": "maximumbaelz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102941264421564635",
+        "in_reply_to_user_id": "1565880195403304960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102802198342304222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maximumbaelz gemini现在多模态能力早就差gpt很多了🫠\nluna我怀疑是推理长度和深度的问题导致标注精度不足，6.0底模的视觉能力都在那的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565880195403304960",
+        "conversation_id": "2102570833537630550",
+        "created_at": "2026-09-23T16:48:06.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102802198342304222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102802198342304222",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102570833537630550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl luna要是能和Astra差不多gemini真得被抽麻了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102941264421564635",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28439,
+          "following_count": 2234,
+          "like_count": 22974,
+          "listed_count": 21,
+          "media_count": 1965,
+          "tweet_count": 29790
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-03T01:51:59.000Z",
+        "description": "",
+        "id": "1565880195403304960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102802198342304222",
+        "name": "maximum baelz",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565880253792149504/kmZUlVNh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 276,
+          "like_count": 3647,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 833
+        },
+        "url": "",
+        "username": "maximumbaelz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

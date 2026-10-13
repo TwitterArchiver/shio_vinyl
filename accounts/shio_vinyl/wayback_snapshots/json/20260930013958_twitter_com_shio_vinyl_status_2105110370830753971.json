@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2105088579261378746",
+    "created_at": "2026-09-30T01:39:58.000Z",
+    "display_text_range": [
+      8,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T02:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105110370830753971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1106699514528890882",
+          "start": 0,
+          "username": "le0l11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105110370830753971",
+    "in_reply_to_user_id": "1106699514528890882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105108009185931526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@le0l11 目前6.1sol出了我觉得情况会改善很多…刚刚叫他帮我做了次大的性能优化和bug修复跑了快两个小时周额度才百分之2（5xpro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2105088579261378746",
+        "created_at": "2026-09-30T01:39:58.000Z",
+        "display_text_range": [
+          8,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105110370830753971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1106699514528890882",
+              "start": 0,
+              "username": "le0l11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105110370830753971",
+        "in_reply_to_user_id": "1106699514528890882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105108009185931526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@le0l11 目前6.1sol出了我觉得情况会改善很多…刚刚叫他帮我做了次大的性能优化和bug修复跑了快两个小时周额度才百分之2（5xpro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1106699514528890882",
+        "conversation_id": "2105088579261378746",
+        "created_at": "2026-09-30T01:30:35.000Z",
+        "display_text_range": [
+          12,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105108009185931526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105108009185931526",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105088579261378746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 更多的问题还是在额度上， 现在claude pro的额度 &gt;&gt;&gt;  gpt plus 额度"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105110370830753971",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28686,
+          "following_count": 2234,
+          "like_count": 23039,
+          "listed_count": 21,
+          "media_count": 1997,
+          "tweet_count": 29902
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-15T23:31:40.000Z",
+        "description": "take it easy",
+        "id": "1106699514528890882",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105108235011363268",
+        "name": "DQ10",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893245608804192256/Uxeor79z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 276,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "le0l11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

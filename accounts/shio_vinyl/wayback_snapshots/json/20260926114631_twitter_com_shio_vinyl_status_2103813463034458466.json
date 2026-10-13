@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2103764833732882504",
+    "created_at": "2026-09-26T11:46:31.000Z",
+    "display_text_range": [
+      11,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103813463034458466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "842995904491667457",
+          "start": 0,
+          "username": "watice555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103813463034458466",
+    "in_reply_to_user_id": "842995904491667457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103810081393656005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@watice555 用的现成的开源模型，他会给图片各种各样的tag（主要是用着acg社区给各个图片上的tag和参考图来训练的），然后都带权重。正确率方面的问题通过人工标注纠正后的各种算法可以提高很多，在我这看来正确率已经很好了，甚至很多模型没训练过的新角色都能识别得到👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2103764833732882504",
+        "created_at": "2026-09-26T11:46:31.000Z",
+        "display_text_range": [
+          11,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103813463034458466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "842995904491667457",
+              "start": 0,
+              "username": "watice555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103813463034458466",
+        "in_reply_to_user_id": "842995904491667457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103810081393656005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@watice555 用的现成的开源模型，他会给图片各种各样的tag（主要是用着acg社区给各个图片上的tag和参考图来训练的），然后都带权重。正确率方面的问题通过人工标注纠正后的各种算法可以提高很多，在我这看来正确率已经很好了，甚至很多模型没训练过的新角色都能识别得到👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "842995904491667457",
+        "conversation_id": "2103764833732882504",
+        "created_at": "2026-09-26T11:33:04.000Z",
+        "display_text_range": [
+          12,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103810081393656005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103810081393656005",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103764833732882504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 能问一下你做的自动分类是什么技术路线吗 我也做过类似的事情 训了一个小模型 但还是有几个问题 一是每个角色得有个上百张的素材效果才够看 二是同色系的角色还是容易分错 三是处理不了多人 换装等复杂情况"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103813463034458466",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28527,
+          "following_count": 2236,
+          "like_count": 22987,
+          "listed_count": 21,
+          "media_count": 1976,
+          "tweet_count": 29827
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-18T07:07:40.000Z",
+        "description": "AI(codex, local llm) | Crypto(btc, crcl, hype) | Covid Cautious | ACG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "watice555.github.io/MyBlog/",
+                "end": 23,
+                "expanded_url": "https://watice555.github.io/MyBlog/",
+                "start": 0,
+                "url": "https://t.co/0uWSLnzRH5"
+              }
+            ]
+          }
+        },
+        "id": "842995904491667457",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103810081393656005",
+        "name": "watice",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896996414002987008/pQj9uP1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 337,
+          "like_count": 15978,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 3113
+        },
+        "url": "https://t.co/0uWSLnzRH5",
+        "username": "watice555",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

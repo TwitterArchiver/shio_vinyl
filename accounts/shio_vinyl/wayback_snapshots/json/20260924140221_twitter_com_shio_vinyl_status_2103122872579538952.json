@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103122862198722560",
+        "3_2103122862156775424"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2103122872579538952",
+    "created_at": "2026-09-24T14:02:21.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T15:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103122872579538952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tvfL0iqJWf",
+          "end": 91,
+          "expanded_url": "https://x.com/shio_vinyl/status/2103122872579538952/photo/1",
+          "media_key": "3_2103122862198722560",
+          "start": 68,
+          "url": "https://t.co/tvfL0iqJWf"
+        },
+        {
+          "display_url": "pic.x.com/tvfL0iqJWf",
+          "end": 91,
+          "expanded_url": "https://x.com/shio_vinyl/status/2103122872579538952/photo/1",
+          "media_key": "3_2103122862156775424",
+          "start": 68,
+          "url": "https://t.co/tvfL0iqJWf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103122872579538952",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103122862198722560"
+      },
+      {
+        "media_key": "3_2103122862156775424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "opus5.5的后端还是太菜了，就是给角色建立多个名字索引的问题半天没搞定。还是请出astra大人吧（顺便狠狠羞辱了claude一顿😈 https://t.co/tvfL0iqJWf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2103122862198722560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_LGbBbkAAFoF9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 632,
+        "media_key": "3_2103122862156775424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_LGa3bgAABk_5.jpg",
+        "width": 1626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103122862198722560",
+            "3_2103122862156775424"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2103122872579538952",
+        "created_at": "2026-09-24T14:02:21.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103122872579538952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvfL0iqJWf",
+              "end": 91,
+              "expanded_url": "https://x.com/shio_vinyl/status/2103122872579538952/photo/1",
+              "media_key": "3_2103122862198722560",
+              "start": 68,
+              "url": "https://t.co/tvfL0iqJWf"
+            },
+            {
+              "display_url": "pic.x.com/tvfL0iqJWf",
+              "end": 91,
+              "expanded_url": "https://x.com/shio_vinyl/status/2103122872579538952/photo/1",
+              "media_key": "3_2103122862156775424",
+              "start": 68,
+              "url": "https://t.co/tvfL0iqJWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103122872579538952",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103122862198722560"
+          },
+          {
+            "media_key": "3_2103122862156775424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "opus5.5的后端还是太菜了，就是给角色建立多个名字索引的问题半天没搞定。还是请出astra大人吧（顺便狠狠羞辱了claude一顿😈 https://t.co/tvfL0iqJWf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103122872579538952",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28460,
+          "following_count": 2235,
+          "like_count": 22980,
+          "listed_count": 21,
+          "media_count": 1969,
+          "tweet_count": 29804
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

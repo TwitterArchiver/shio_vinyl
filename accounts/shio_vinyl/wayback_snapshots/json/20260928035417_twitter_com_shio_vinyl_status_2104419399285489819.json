@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2104390287833645071",
+    "created_at": "2026-09-28T03:54:17.000Z",
+    "display_text_range": [
+      8,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T04:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104419399285489819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1913946244764098560",
+          "start": 0,
+          "username": "Tibmal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104419399285489819",
+    "in_reply_to_user_id": "1913946244764098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104390287833645071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tibmal 其实审美也早就商品化了…只是ai彻底推进了这一步而已，并不是ai出现才导致了这个问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2104390287833645071",
+        "created_at": "2026-09-28T03:54:17.000Z",
+        "display_text_range": [
+          8,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104419399285489819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913946244764098560",
+              "start": 0,
+              "username": "Tibmal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104419399285489819",
+        "in_reply_to_user_id": "1913946244764098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104390287833645071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tibmal 其实审美也早就商品化了…只是ai彻底推进了这一步而已，并不是ai出现才导致了这个问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913946244764098560",
+        "conversation_id": "2104390287833645071",
+        "created_at": "2026-09-28T01:58:36.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104390287833645071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104390287833645071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 617,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "比起ai绘图本身的掠夺性，更让我不安的是使用者们把人的审美劳动当成可随意拆解的原料，还反过来嘲讽原料的提供者。虽然很多用ai绘画的人本来就只想要结果的观看和风格的调用，一辈子不会有什么具身性的审美体验吧，但是如果连人的审美劳动都彻底工具化了，技术的进步目的到底是什么……？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104419399285489819",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28663,
+          "following_count": 2236,
+          "like_count": 23020,
+          "listed_count": 21,
+          "media_count": 1985,
+          "tweet_count": 29861
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-20T13:22:05.000Z",
+        "description": "Prefiero la muerte antes que la traición/拉美历史趣味/",
+        "id": "1913946244764098560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104396336665649527",
+        "name": "Tibmal",
+        "pinned_tweet_id": "1913949199156330527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913946244764098560/1774655328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037677262720643072/JoL8X_4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 58,
+          "like_count": 965,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 2878
+        },
+        "url": "",
+        "username": "Tibmal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2104564482446119420",
+    "created_at": "2026-09-28T13:36:43.000Z",
+    "display_text_range": [
+      14,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104565973479276582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279688463797719040",
+          "start": 0,
+          "username": "NobodyXU2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104565973479276582",
+    "in_reply_to_user_id": "1279688463797719040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104564766274621812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NobodyXU2000 sonnet属实不值得，还不如用sol6.0…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2104564482446119420",
+        "created_at": "2026-09-28T13:36:43.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104565973479276582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279688463797719040",
+              "start": 0,
+              "username": "NobodyXU2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104565973479276582",
+        "in_reply_to_user_id": "1279688463797719040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104564766274621812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NobodyXU2000 sonnet属实不值得，还不如用sol6.0…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279688463797719040",
+        "conversation_id": "2104564482446119420",
+        "created_at": "2026-09-28T13:31:55.000Z",
+        "display_text_range": [
+          12,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104564766274621812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104564766274621812",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104564482446119420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 我用了最低sub + opus + 小的用sonnet，都是high，快到week limit了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104565973479276582",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28669,
+          "following_count": 2236,
+          "like_count": 23024,
+          "listed_count": 21,
+          "media_count": 1991,
+          "tweet_count": 29873
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-05T08:08:09.000Z",
+        "description": "",
+        "id": "1279688463797719040",
+        "is_identity_verified": false,
+        "location": "Sydney, New South Wales",
+        "most_recent_tweet_id": "2104564766274621812",
+        "name": "NobodyXU",
+        "pinned_tweet_id": "1601444682713776129",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069709362130755584/Kjn6K-q-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 150,
+          "like_count": 21715,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3120
+        },
+        "url": "",
+        "username": "NobodyXU2000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

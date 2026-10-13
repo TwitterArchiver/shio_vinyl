@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2105088579261378746",
+    "created_at": "2026-09-30T03:12:31.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T04:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105133664787222631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013974500745019392",
+          "start": 0,
+          "username": "GoffMusk2088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105133664787222631",
+    "in_reply_to_user_id": "2013974500745019392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105117651404218541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoffMusk2088 我也完全没遇到过🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2105088579261378746",
+        "created_at": "2026-09-30T03:12:31.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105133664787222631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2013974500745019392",
+              "start": 0,
+              "username": "GoffMusk2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105133664787222631",
+        "in_reply_to_user_id": "2013974500745019392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105117651404218541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoffMusk2088 我也完全没遇到过🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013974500745019392",
+        "conversation_id": "2105088579261378746",
+        "created_at": "2026-09-30T02:08:53.000Z",
+        "display_text_range": [
+          12,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105117651404218541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105117651404218541",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105088579261378746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 还有一个，他们经常遇到Astra降智的问题，我是完全没遇到过……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105133664787222631",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28685,
+          "following_count": 2234,
+          "like_count": 23050,
+          "listed_count": 21,
+          "media_count": 1998,
+          "tweet_count": 29910
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-21T13:58:45.000Z",
+        "description": "03｜实体创业三次｜软件行业 to b 销售\n向阳前行｜广深城市主理人\n做了4年多销售，一直在帮别人卖东西，向往OPC，希望有一天能卖自己的产品\nbtw.永远相信努力可以改变人生",
+        "id": "2013974500745019392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105119165468340716",
+        "name": "许国夫Goff",
+        "pinned_tweet_id": "2093695782042087611",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093694054139822081/WyBdBaeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 189,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 331
+        },
+        "url": "",
+        "username": "GoffMusk2088",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

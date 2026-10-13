@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2102748998687961374",
+    "created_at": "2026-09-24T04:32:49.000Z",
+    "display_text_range": [
+      16,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T05:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102979545498521703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1568138318134804481",
+          "start": 0,
+          "username": "sunflower_hua1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102979545498521703",
+    "in_reply_to_user_id": "1568138318134804481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102978000405106844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunflower_hua1 astra如果引导一下的话还能接受，但是确实是远远不如claude🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2102748998687961374",
+        "created_at": "2026-09-24T04:32:49.000Z",
+        "display_text_range": [
+          16,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102979545498521703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1568138318134804481",
+              "start": 0,
+              "username": "sunflower_hua1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102979545498521703",
+        "in_reply_to_user_id": "1568138318134804481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102978000405106844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunflower_hua1 astra如果引导一下的话还能接受，但是确实是远远不如claude🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568138318134804481",
+        "conversation_id": "2102748998687961374",
+        "created_at": "2026-09-24T04:26:41.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102978000405106844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102978000405106844",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102748998687961374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl gpt前端审美真是两眼一黑，甚至不如k3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102979545498521703",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28443,
+          "following_count": 2234,
+          "like_count": 22977,
+          "listed_count": 21,
+          "media_count": 1968,
+          "tweet_count": 29801
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-09T07:24:59.000Z",
+        "description": "",
+        "id": "1568138318134804481",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102978816784334988",
+        "name": "花夏荫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568138318134804481/1672302715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963151886623895552/8e7UCfxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 508,
+          "like_count": 3819,
+          "listed_count": 8,
+          "media_count": 146,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "sunflower_hua1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

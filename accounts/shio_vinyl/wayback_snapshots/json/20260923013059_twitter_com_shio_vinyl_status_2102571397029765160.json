@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2102571397029765160",
+    "created_at": "2026-09-23T01:30:59.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T02:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102571397029765160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shio_vinyl/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/shio_vinyl/status/2101293392747745403",
+          "start": 33,
+          "url": "https://t.co/iMLnqajWN8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102571397029765160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101293392747745403",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉这次真支棱起来了…\n（不过中转站应付一下吧，不再信任a社了🐱💧 https://t.co/iMLnqajWN8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2102571397029765160",
+        "created_at": "2026-09-23T01:30:59.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T02:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102571397029765160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shio_vinyl/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/shio_vinyl/status/2101293392747745403",
+              "start": 33,
+              "url": "https://t.co/iMLnqajWN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102571397029765160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101293392747745403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉这次真支棱起来了…\n（不过中转站应付一下吧，不再信任a社了🐱💧 https://t.co/iMLnqajWN8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2101293392747745403",
+        "created_at": "2026-09-19T12:52:39.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101293392747745403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101293392747745403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1204,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么感觉现在sol medium和astra low耗得差不多…唉a社到底什么时候才能支棱起来上点压力啊😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102571397029765160",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28410,
+          "following_count": 2235,
+          "like_count": 22969,
+          "listed_count": 20,
+          "media_count": 1962,
+          "tweet_count": 29781
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

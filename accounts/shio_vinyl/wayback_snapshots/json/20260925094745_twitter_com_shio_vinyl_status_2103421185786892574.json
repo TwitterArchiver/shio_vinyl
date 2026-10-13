@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2103339386561851420",
+    "created_at": "2026-09-25T09:47:45.000Z",
+    "display_text_range": [
+      15,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T10:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103421185786892574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "825350910335291392",
+          "start": 0,
+          "username": "Hatsuyuki512k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103421185786892574",
+    "in_reply_to_user_id": "825350910335291392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103418835726479537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hatsuyuki512k 这次的tts语调语气表达式的效果已经很好了，以后只会更好；以及对于个人制作的游戏或者同人作品而言我觉得这种程度已经够用了，很难不认为这是一种趋势吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2103339386561851420",
+        "created_at": "2026-09-25T09:47:45.000Z",
+        "display_text_range": [
+          15,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103421185786892574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "825350910335291392",
+              "start": 0,
+              "username": "Hatsuyuki512k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103421185786892574",
+        "in_reply_to_user_id": "825350910335291392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103418835726479537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatsuyuki512k 这次的tts语调语气表达式的效果已经很好了，以后只会更好；以及对于个人制作的游戏或者同人作品而言我觉得这种程度已经够用了，很难不认为这是一种趋势吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "825350910335291392",
+        "conversation_id": "2103339386561851420",
+        "created_at": "2026-09-25T09:38:24.000Z",
+        "display_text_range": [
+          12,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103418835726479537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103418835726479537",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103339386561851420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 游戏配音并不只是把东西读出来，语调情感什么的，这些都是配音和配音导演自己去想的。所以你会发现同一个游戏的不同语言配音里会有不同的情绪理解。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103421185786892574",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28462,
+          "following_count": 2236,
+          "like_count": 22981,
+          "listed_count": 21,
+          "media_count": 1975,
+          "tweet_count": 29816
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-28T14:32:46.000Z",
+        "description": "until the land becomes a pile of paperclips",
+        "id": "825350910335291392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103418835726479537",
+        "name": "string",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/825350910335291392/1789716445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100847536613240832/XmnCScma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 3445,
+          "like_count": 50220,
+          "listed_count": 3,
+          "media_count": 773,
+          "tweet_count": 12326
+        },
+        "url": "",
+        "username": "Hatsuyuki512k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

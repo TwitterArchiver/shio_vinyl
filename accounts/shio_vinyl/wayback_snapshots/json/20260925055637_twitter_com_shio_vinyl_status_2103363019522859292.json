@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103362881953951744"
+      ]
+    },
+    "author_id": "1359161118300766219",
+    "conversation_id": "2103363019522859292",
+    "created_at": "2026-09-25T05:56:37.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T06:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103363019522859292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0EdNWuFf1u",
+          "end": 39,
+          "expanded_url": "https://x.com/shio_vinyl/status/2103363019522859292/video/1",
+          "media_key": "13_2103362881953951744",
+          "start": 16,
+          "url": "https://t.co/0EdNWuFf1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103363019522859292",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2103362881953951744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吓哭了…完全就是asmr😭😭😭 https://t.co/0EdNWuFf1u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99790,
+        "height": 650,
+        "media_key": "13_2103362881953951744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103362881953951744/img/QVyEn-tv0WxmfrLb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103362881953951744/vid/avc1/752x270/9zepFoIVzpl2OEQj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103362881953951744/vid/avc1/1002x360/yTvFtyD8UT-aEYQc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103362881953951744/vid/avc1/1812x650/63QUR6qI3TlYsEgb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103362881953951744/pl/l7QVf5_xC-Fck7AX.m3u8"
+          }
+        ],
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103362881953951744"
+          ]
+        },
+        "author_id": "1359161118300766219",
+        "conversation_id": "2103363019522859292",
+        "created_at": "2026-09-25T05:56:37.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T06:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103363019522859292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EdNWuFf1u",
+              "end": 39,
+              "expanded_url": "https://x.com/shio_vinyl/status/2103363019522859292/video/1",
+              "media_key": "13_2103362881953951744",
+              "start": 16,
+              "url": "https://t.co/0EdNWuFf1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103363019522859292",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2103362881953951744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吓哭了…完全就是asmr😭😭😭 https://t.co/0EdNWuFf1u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103363019522859292",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28464,
+          "following_count": 2236,
+          "like_count": 22976,
+          "listed_count": 21,
+          "media_count": 1973,
+          "tweet_count": 29812
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

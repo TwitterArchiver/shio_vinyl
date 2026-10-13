@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2104559493057302969",
+    "created_at": "2026-09-28T13:53:57.000Z",
+    "display_text_range": [
+      16,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104570309135495612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2019021305002258432",
+          "start": 0,
+          "username": "MingTian685474"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104570309135495612",
+    "in_reply_to_user_id": "2019021305002258432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104566518684295208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MingTian685474 我怀疑是优化了背后的图形推理吧…但是标注上限就到这了，可能这模型底模也就这样了，或许真的就是terra的程度🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2104559493057302969",
+        "created_at": "2026-09-28T13:53:57.000Z",
+        "display_text_range": [
+          16,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104570309135495612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2019021305002258432",
+              "start": 0,
+              "username": "MingTian685474"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104570309135495612",
+        "in_reply_to_user_id": "2019021305002258432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104566518684295208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MingTian685474 我怀疑是优化了背后的图形推理吧…但是标注上限就到这了，可能这模型底模也就这样了，或许真的就是terra的程度🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019021305002258432",
+        "conversation_id": "2104559493057302969",
+        "created_at": "2026-09-28T13:38:53.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104566518684295208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104566518684295208",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104559493057302969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 不会吧，还反向优化了速度不成"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104570309135495612",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28669,
+          "following_count": 2236,
+          "like_count": 23025,
+          "listed_count": 21,
+          "media_count": 1991,
+          "tweet_count": 29874
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-04T12:13:07.000Z",
+        "description": "我 = lim(好奇心→∞) f(好奇心; AI, 数学, 计算机)\n正在求解：AI、数学和计算机的交集，暂无最优解\n冻土生芽，长夜有光🌱\nCurious about AI, math & CS. Always happy to chat.",
+        "id": "2019021305002258432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104567056280830382",
+        "name": "Aurora",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2019021305002258432/1790433520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100660317365882880/kUG2PzrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1515,
+          "like_count": 1756,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 925
+        },
+        "url": "",
+        "username": "MingTian685474",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

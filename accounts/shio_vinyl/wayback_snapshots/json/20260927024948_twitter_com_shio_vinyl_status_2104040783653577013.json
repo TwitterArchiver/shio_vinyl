@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2103857582427500552",
+    "created_at": "2026-09-27T02:49:48.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T03:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104040783653577013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547149772481564672",
+          "start": 0,
+          "username": "Tom22200329"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104040783653577013",
+    "in_reply_to_user_id": "1547149772481564672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104033880907174371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom22200329 未来会哦👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2103857582427500552",
+        "created_at": "2026-09-27T02:49:48.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104040783653577013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547149772481564672",
+              "start": 0,
+              "username": "Tom22200329"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104040783653577013",
+        "in_reply_to_user_id": "1547149772481564672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104033880907174371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom22200329 未来会哦👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547149772481564672",
+        "conversation_id": "2103857582427500552",
+        "created_at": "2026-09-27T02:22:22.000Z",
+        "display_text_range": [
+          12,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T03:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104033880907174371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104033880907174371",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103857582427500552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 大佬太强了，我也是有几万张图，日积月累存下来的，最近尝试了几次做自动分类的软件都失败了，大佬这个可以开源吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104040783653577013",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28628,
+          "following_count": 2236,
+          "like_count": 23005,
+          "listed_count": 21,
+          "media_count": 1981,
+          "tweet_count": 29844
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-13T09:23:51.000Z",
+        "description": "喜欢芙芙我们就是朋友",
+        "id": "1547149772481564672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104034544836084013",
+        "name": "fufu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031427231281770496/XnZxKFXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 687,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1216
+        },
+        "url": "",
+        "username": "Tom22200329",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

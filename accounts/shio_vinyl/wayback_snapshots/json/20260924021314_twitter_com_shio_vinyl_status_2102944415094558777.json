@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2102748998687961374",
+    "created_at": "2026-09-24T02:13:14.000Z",
+    "display_text_range": [
+      14,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102944415094558777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813241535422689282",
+          "start": 0,
+          "username": "89_linn28155"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102944415094558777",
+    "in_reply_to_user_id": "1813241535422689282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102912572576182601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89_linn28155 gemini做事太蠢了，做出来肯定得反复改很多次bug，claude一步到位还是舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2102748998687961374",
+        "created_at": "2026-09-24T02:13:14.000Z",
+        "display_text_range": [
+          14,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102944415094558777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813241535422689282",
+              "start": 0,
+              "username": "89_linn28155"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102944415094558777",
+        "in_reply_to_user_id": "1813241535422689282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102912572576182601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89_linn28155 gemini做事太蠢了，做出来肯定得反复改很多次bug，claude一步到位还是舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813241535422689282",
+        "conversation_id": "2102748998687961374",
+        "created_at": "2026-09-24T00:06:42.000Z",
+        "display_text_range": [
+          12,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102912572576182601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102912572576182601",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 704,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102748998687961374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 谷歌系审美，gemini跑出来也差不多是这个效果的。如果你有低价g账号可以试试。就是告诉它按谷歌风格设计"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102944415094558777",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28440,
+          "following_count": 2234,
+          "like_count": 22974,
+          "listed_count": 21,
+          "media_count": 1966,
+          "tweet_count": 29793
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-16T15:57:34.000Z",
+        "description": "",
+        "id": "1813241535422689282",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102927240128540939",
+        "name": "linn yugio",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059183766980206593/o5s6b6F0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 109,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "89_linn28155",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

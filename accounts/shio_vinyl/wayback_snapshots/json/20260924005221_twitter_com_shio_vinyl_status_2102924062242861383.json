@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2102748998687961374",
+    "created_at": "2026-09-24T00:52:21.000Z",
+    "display_text_range": [
+      21,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T01:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102924062242861383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1665754441977565185",
+          "start": 0,
+          "username": "Jel1ySpot"
+        },
+        {
+          "end": 20,
+          "id": "1229249897968238592",
+          "start": 11,
+          "username": "yabaiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102924062242861383",
+    "in_reply_to_user_id": "1665754441977565185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102917807373701208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jel1ySpot @yabaiQAQ 用了个本地分类模型和特征tag匹配，然后再加上适当的人工纠正和确认👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2102748998687961374",
+        "created_at": "2026-09-24T00:52:21.000Z",
+        "display_text_range": [
+          21,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102924062242861383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1665754441977565185",
+              "start": 0,
+              "username": "Jel1ySpot"
+            },
+            {
+              "end": 20,
+              "id": "1229249897968238592",
+              "start": 11,
+              "username": "yabaiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102924062242861383",
+        "in_reply_to_user_id": "1665754441977565185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102917807373701208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jel1ySpot @yabaiQAQ 用了个本地分类模型和特征tag匹配，然后再加上适当的人工纠正和确认👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665754441977565185",
+        "conversation_id": "2102748998687961374",
+        "created_at": "2026-09-24T00:27:30.000Z",
+        "display_text_range": [
+          22,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102917807373701208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            },
+            {
+              "end": 21,
+              "id": "1229249897968238592",
+              "start": 12,
+              "username": "yabaiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102917807373701208",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102896955877920773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl @yabaiQAQ 是怎么处理本地分类标记的（？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102924062242861383",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28438,
+          "following_count": 2234,
+          "like_count": 22973,
+          "listed_count": 21,
+          "media_count": 1964,
+          "tweet_count": 29787
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-05T16:16:35.000Z",
+        "description": "啫喱拿鐵！Full Stack/PL/LLM can’t generate GREAT code",
+        "id": "1665754441977565185",
+        "is_identity_verified": false,
+        "location": "Kowloon City District",
+        "most_recent_tweet_id": "2102917807373701208",
+        "name": "啫喱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665754441977565185/1685982050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081768238850162688/b6TV2cEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 128,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Jel1ySpot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-17T03:43:16.000Z",
+        "description": "",
+        "id": "1229249897968238592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102809455595495443",
+        "name": "yabai",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229249897968238592/1755666277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963333037909053440/HCxapFeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 85,
+          "like_count": 2050,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "yabaiQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

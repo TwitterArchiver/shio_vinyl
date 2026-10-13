@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2104946856312848438",
+    "created_at": "2026-09-29T15:09:31.000Z",
+    "display_text_range": [
+      11,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T16:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104951714067706154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "756779273155858432",
+          "start": 0,
+          "username": "ScarletKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104951714067706154",
+    "in_reply_to_user_id": "756779273155858432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104946856312848438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarletKc 刚刚弹窗吓死我了我还以为我号要无了🐱💧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2104946512073809920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZFs0NbYAAKovd.png",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2104946856312848438",
+        "created_at": "2026-09-29T15:09:31.000Z",
+        "display_text_range": [
+          11,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104951714067706154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "756779273155858432",
+              "start": 0,
+              "username": "ScarletKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104951714067706154",
+        "in_reply_to_user_id": "756779273155858432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104946856312848438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletKc 刚刚弹窗吓死我了我还以为我号要无了🐱💧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104946512073809920"
+          ]
+        },
+        "author_id": "756779273155858432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2104946856312848438",
+        "created_at": "2026-09-29T14:50:13.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104946856312848438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+              "display_url": "claude.ai",
+              "end": 38,
+              "expanded_url": "https://claude.ai",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2103422092419198976/q6x6sU1l?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103422092419198976/q6x6sU1l?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "Claude",
+              "unwound_url": "https://claude.ai/login",
+              "url": "https://t.co/nYbpvumtJS"
+            },
+            {
+              "display_url": "pic.x.com/C2pgpieKQa",
+              "end": 193,
+              "expanded_url": "https://x.com/ScarletKc/status/2104946856312848438/photo/1",
+              "media_key": "3_2104946512073809920",
+              "start": 170,
+              "url": "https://t.co/C2pgpieKQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104946856312848438",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104946512073809920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 38,
+                "expanded_url": "http://claude.ai",
+                "start": 15,
+                "url": "https://t.co/ptHxxtrQZd"
+              },
+              {
+                "display_url": "status.claude.com/incidents/4xvt…",
+                "end": 247,
+                "expanded_url": "https://status.claude.com/incidents/4xvtc2gnq73l",
+                "start": 224,
+                "url": "https://t.co/VHy7mttLGQ"
+              }
+            ]
+          },
+          "text": "Claude 现在大面积报错，https://t.co/ptHxxtrQZd、Claude Code、Cowork 都是 Partial Outage，API 和 Console 也有部分请求失败。估计今天全是从 OpenAI 涌入的\n\n官方已经上了缓解措施，错误率降了不少，但登录、账号操作和一部分 Claude Code、Cowork 会话还在失败。消息发不出去、对话加载不出来或者突然要你重新登录的，基本就是这个问题，多重试几次可能就好了\n\nhttps://t.co/VHy7mttLGQ"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 948,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Claude 现在大面积报错，https://t.co/nYbpvumtJS、Claude Code、Cowork 都是 Partial Outage，API 和 Console 也有部分请求失败。估计今天全是从 OpenAI 涌入的\n\n官方已经上了缓解措施，错误率降了不少，但登录、账号操作和一部分 Claude Code、Cowork https://t.co/C2pgpieKQa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104951714067706154",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28680,
+          "following_count": 2234,
+          "like_count": 23037,
+          "listed_count": 21,
+          "media_count": 1997,
+          "tweet_count": 29895
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "Indie developer building games & open-source tools\nSharing AI news, model impressions, and opinions\nOccasional thoughts on life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPiBzd"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104950291477168196",
+        "name": "KC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 962,
+          "like_count": 104983,
+          "listed_count": 24,
+          "media_count": 388,
+          "tweet_count": 11863
+        },
+        "url": "https://t.co/YTKXMPiBzd",
+        "username": "ScarletKc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

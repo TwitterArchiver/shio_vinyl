@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1359161118300766219",
+    "conversation_id": "2102748998687961374",
+    "created_at": "2026-09-24T02:12:29.000Z",
+    "display_text_range": [
+      10,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102944226858377478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1398586858100068354",
+          "start": 0,
+          "username": "cjergsen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102944226858377478",
+    "in_reply_to_user_id": "1398586858100068354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102942328873009543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjergsen 不怕信息泄漏和模型路由的话可以中转站"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359161118300766219",
+        "conversation_id": "2102748998687961374",
+        "created_at": "2026-09-24T02:12:29.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102944226858377478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1398586858100068354",
+              "start": 0,
+              "username": "cjergsen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102944226858377478",
+        "in_reply_to_user_id": "1398586858100068354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102942328873009543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjergsen 不怕信息泄漏和模型路由的话可以中转站"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398586858100068354",
+        "conversation_id": "2102748998687961374",
+        "created_at": "2026-09-24T02:04:56.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102942328873009543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359161118300766219",
+              "start": 0,
+              "username": "shio_vinyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102942328873009543",
+        "in_reply_to_user_id": "1359161118300766219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102748998687961374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shio_vinyl 大佬有没有墙内也可以稳定用的法子？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-02-09T15:24:07.000Z",
+        "description": "-已过气-",
+        "id": "1359161118300766219",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102944226858377478",
+        "name": "塩ビ_🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359161118300766219/1776002957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043340646212411392/zxgaO8wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28440,
+          "following_count": 2234,
+          "like_count": 22974,
+          "listed_count": 21,
+          "media_count": 1966,
+          "tweet_count": 29792
+        },
+        "url": "",
+        "username": "shio_vinyl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-29T10:27:54.000Z",
+        "description": "希望你开心幸福",
+        "id": "1398586858100068354",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102942328873009543",
+        "name": "Cjergsen",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1398586858100068354/1702328309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734316749317898240/9WTfd3j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 105,
+          "like_count": 8399,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "cjergsen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
